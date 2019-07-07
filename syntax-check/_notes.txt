@@ -1,9 +1,11 @@
 chktex:
 	https://www.ctan.org/pkg/chktex
 	https://www.nongnu.org/chktex/
-	http://git.savannah.nongnu.org/cgit/chktex.git
+	https://git.savannah.nongnu.org/cgit/chktex.git
 	
 	chktex is part of the current MikTeX release.
+	https://github.com/MiKTeX/miktex/tree/master/Programs/Validation/chktex
+	
 	Overleaf runs chktex as part of the build process (see https://pt.overleaf.com/learn/how-to/How_does_Overleaf_compile_my_project%3F)
 	To use, open a command (bash) shell, e.g.:
 		> chktex -g0 -l chktexrc-hgb -o main.chk main.tex
