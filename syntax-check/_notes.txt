@@ -18,8 +18,8 @@ lacheck:
 	
 Others:
 	https://github.com/ebnn/draftcheck (Python, any active maintenance?)
-
-
+	http://www.cs.umd.edu/~nspring/software/style-check-readme.html (Ruby)
+	+ http://www.cs.umd.edu/~nspring/software/style-check-current.tar.gz
 
 
 
