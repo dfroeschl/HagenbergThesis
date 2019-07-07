@@ -1,0 +1,31 @@
+chktex:
+	https://www.ctan.org/pkg/chktex
+	https://www.nongnu.org/chktex/
+	http://git.savannah.nongnu.org/cgit/chktex.git
+	
+	chktex is part of the current MikTeX release.
+	Overleaf runs chktex as part of the build process (see https://pt.overleaf.com/learn/how-to/How_does_Overleaf_compile_my_project%3F)
+	To use, open a command (bash) shell, e.g.:
+		> chktex -g0 -l chktexrc-hgb -o main.chk main.tex
+		> chktex -v2 -g0 -l chktexrc-hgb -o main.chk main.tex
+		> chktex -v4 -g0 -l chktexrc-hgb -o main.chk main.tex
+	
+lacheck:
+	https://ctan.org/pkg/lacheck
+	No way to customize/configure.
+	
+Others:
+	https://github.com/ebnn/draftcheck (Python, any active maintenance?)
+
+
+
+
+
+Auch interessant:
+	https://www.semipol.de/2018/06/12/latex-best-practices.html
+	https://tex.stackexchange.com/questions/3819/dashes-vs-vs
+	(typographer Robert Bringhurst indirectly calls the em-dash "Victorian")
+	(As a modern punctuation mark for parenthetical phrases. The en-dash in this usage is always surrounded by spaces.)
+	
+	https://github.com/James-Yu/LaTeX-Workshop/issues/881
+	

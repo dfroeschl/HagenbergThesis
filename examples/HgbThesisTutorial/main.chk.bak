@@ -1,0 +1,2331 @@
+Warning 18 in front/vorwort.tex line 13: Use either `` or '' as an alternative to `"'.
+bestehende \emph{Word}-Vorlage für Diplomarbeiten "einfach" in  
+                                                   ^
+Warning 18 in front/vorwort.tex line 13: Use either `` or '' as an alternative to `"'.
+bestehende \emph{Word}-Vorlage für Diplomarbeiten "einfach" in  
+                                                           ^
+Warning 1 in front/vorwort.tex line 16: Command terminated with space.
+zielführend, da \latex, \va was den Umgang mit Literatur und  
+                            ^
+Warning 8 in front/vorwort.tex line 18: Wrong length of dash may have been used.
+verlangt. Das Ergebnis ist -- von Grund auf neu geschrieben und  
+                           ^^
+Warning 8 in front/vorwort.tex line 19: Wrong length of dash may have been used.
+wesentlich umfangreicher als das vorherige Dokument --  
+                                                    ^^
+Warning 2 in front/vorwort.tex line 22: Non-breaking space (`~') should have been used.
+Technische Details zur aktuellen Version finden sich in Anhang \ref{app:TechnischeInfos}.  
+                                                              ^
+Warning 1 in front/vorwort.tex line 30: Command terminated with space.
+Basisfunktionalität von \latex das Auslangen zu finden und -- soweit möglich --  
+                               ^
+Warning 8 in front/vorwort.tex line 30: Wrong length of dash may have been used.
+Basisfunktionalität von \latex das Auslangen zu finden und -- soweit möglich --  
+                                                            ^^
+Warning 8 in front/vorwort.tex line 30: Wrong length of dash may have been used.
+Basisfunktionalität von \latex das Auslangen zu finden und -- soweit möglich --  
+                                                                               ^^
+Warning 18 in front/vorwort.tex line 32: Use either `` or '' as an alternative to `"'.
+tat\-säch\-lich ist eine Reihe von ergänzenden "Paketen" notwendig, wobei jedoch  
+                                                 ^
+Warning 18 in front/vorwort.tex line 32: Use either `` or '' as an alternative to `"'.
+tat\-säch\-lich ist eine Reihe von ergänzenden "Paketen" notwendig, wobei jedoch  
+                                                         ^
+Warning 18 in front/vorwort.tex line 45: Use either `` or '' as an alternative to `"'.
+die konsequente Verbesserung meines "Computer Slangs", bei  
+                                    ^
+Warning 18 in front/vorwort.tex line 45: Use either `` or '' as an alternative to `"'.
+die konsequente Verbesserung meines "Computer Slangs", bei  
+                                                    ^
+Warning 13 in front/vorwort.tex line 47: Intersentence spacing (`\@') should perhaps be used.
+bei Wolfgang Hochleitner für die Tests unter Mac~OS.  
+                                                    ^
+Warning 8 in front/vorwort.tex line 50: Wrong length of dash may have been used.
+keinerlei Erwähnung gebunden. Allerdings -- wer sie als Grundlage  
+                                          ^^
+Warning 18 in front/vorwort.tex line 52: Use either `` or '' as an alternative to `"'.
+("ung'schaut") darauf los werken, sondern zumindest die  
+ ^
+Warning 18 in front/vorwort.tex line 52: Use either `` or '' as an alternative to `"'.
+("ung'schaut") darauf los werken, sondern zumindest die  
+            ^
+Warning 18 in front/vorwort.tex line 80: Use either `` or '' as an alternative to `"'.
+sind daher willkommen, am einfachsten als Kommentar oder Fehlermeldung ("Issue")   
+                                                                        ^
+Warning 18 in front/vorwort.tex line 80: Use either `` or '' as an alternative to `"'.
+sind daher willkommen, am einfachsten als Kommentar oder Fehlermeldung ("Issue")   
+                                                                              ^
+Warning 1 in front/vorwort.tex line 93: Command terminated with space.
+Hier ist auch der Platz für allfällige Danksagungen (\zB an den Betreuer,   
+                                                          ^
+Warning 8 in front/kurzfassung.tex line 9: Wrong length of dash may have been used.
+Kurzfassungen werden übrigens häufig -- zusammen mit Autor und Titel  
+                                       ^^
+Warning 8 in front/kurzfassung.tex line 10: Wrong length of dash may have been used.
+der Arbeit -- %  
+           ^^
+Warning 1 in front/kurzfassung.tex line 13: Command terminated with space.
+\emph{allein} (\dah ohne weitere Teile der Arbeit) zusammenhängend und  
+                   ^
+Warning 1 in front/kurzfassung.tex line 14: Command terminated with space.
+abgeschlossen ist. Insbesondere werden an dieser Stelle (wie \ua  
+                                                                ^
+Warning 8 in front/kurzfassung.tex line 17: Wrong length of dash may have been used.
+unbedingt solche benötigt werden -- etwa weil die Arbeit eine  
+                                  ^^
+Warning 1 in front/kurzfassung.tex line 20: Command terminated with space.
+selbst notwendig, \zB %  
+                     ^
+Warning 8 in front/kurzfassung.tex line 21: Wrong length of dash may have been used.
+[\textsc{Zobel} J.: \textit{Writing for Computer Science -- The Art of  
+                                                         ^^
+Warning 18 in front/kurzfassung.tex line 25: Use either `` or '' as an alternative to `"'.
+Sonderzeichen oder etwa Aufzählungen mit "Knödellisten" in der  
+                                          ^
+Warning 18 in front/kurzfassung.tex line 25: Use either `` or '' as an alternative to `"'.
+Sonderzeichen oder etwa Aufzählungen mit "Knödellisten" in der  
+                                                        ^
+Warning 8 in front/abstract.tex line 16: Wrong length of dash may have been used.
+empfiehlt sich übrigens -- auch bei höchstem Vertrauen in die  
+                         ^^
+Warning 8 in front/abstract.tex line 17: Wrong length of dash may have been used.
+persönlichen Englischkenntnisse -- eine kundige Person für das  
+                                 ^^
+Warning 18 in front/abstract.tex line 18: Use either `` or '' as an alternative to `"'.
+"proof reading" zu engagieren.  
+^
+Warning 18 in front/abstract.tex line 18: Use either `` or '' as an alternative to `"'.
+"proof reading" zu engagieren.  
+              ^
+Warning 18 in front/abstract.tex line 20: Use either `` or '' as an alternative to `"'.
+Die richtige Übersetzung für "Diplomarbeit" ist übrigens  
+                               ^
+Warning 18 in front/abstract.tex line 20: Use either `` or '' as an alternative to `"'.
+Die richtige Übersetzung für "Diplomarbeit" ist übrigens  
+                                            ^
+Warning 18 in front/abstract.tex line 21: Use either `` or '' as an alternative to `"'.
+schlicht \emph{thesis}, allenfalls  "diploma thesis" oder "Master's thesis",   
+                                    ^
+Warning 18 in front/abstract.tex line 21: Use either `` or '' as an alternative to `"'.
+schlicht \emph{thesis}, allenfalls  "diploma thesis" oder "Master's thesis",   
+                                                   ^
+Warning 18 in front/abstract.tex line 21: Use either `` or '' as an alternative to `"'.
+schlicht \emph{thesis}, allenfalls  "diploma thesis" oder "Master's thesis",   
+                                                          ^
+Warning 18 in front/abstract.tex line 21: Use either `` or '' as an alternative to `"'.
+schlicht \emph{thesis}, allenfalls  "diploma thesis" oder "Master's thesis",   
+                                                                          ^
+Warning 18 in front/abstract.tex line 22: Use either `` or '' as an alternative to `"'.
+auf keinen Fall aber "diploma work" oder gar "dissertation".   
+                     ^
+Warning 18 in front/abstract.tex line 22: Use either `` or '' as an alternative to `"'.
+auf keinen Fall aber "diploma work" oder gar "dissertation".   
+                                  ^
+Warning 18 in front/abstract.tex line 22: Use either `` or '' as an alternative to `"'.
+auf keinen Fall aber "diploma work" oder gar "dissertation".   
+                                             ^
+Warning 18 in front/abstract.tex line 22: Use either `` or '' as an alternative to `"'.
+auf keinen Fall aber "diploma work" oder gar "dissertation".   
+                                                          ^
+Warning 18 in front/abstract.tex line 23: Use either `` or '' as an alternative to `"'.
+Für "Bachelorarbeit" ist wohl "Bachelor thesis" die passende Übersetzung.   
+     ^
+Warning 18 in front/abstract.tex line 23: Use either `` or '' as an alternative to `"'.
+Für "Bachelorarbeit" ist wohl "Bachelor thesis" die passende Übersetzung.   
+                    ^
+Warning 18 in front/abstract.tex line 23: Use either `` or '' as an alternative to `"'.
+Für "Bachelorarbeit" ist wohl "Bachelor thesis" die passende Übersetzung.   
+                               ^
+Warning 18 in front/abstract.tex line 23: Use either `` or '' as an alternative to `"'.
+Für "Bachelorarbeit" ist wohl "Bachelor thesis" die passende Übersetzung.   
+                                               ^
+Warning 2 in front/abstract.tex line 28: Non-breaking space (`~') should have been used.
+(s.\ dazu die Abschnitte \ref{sec:sprachumschaltung} %  
+                        ^
+Warning 2 in front/abstract.tex line 29: Non-breaking space (`~') should have been used.
+und \ref{sec:anfuehrungszeichen}).  
+   ^
+Warning 1 in main.tex line 60: Command terminated with space.
+\mainmatter          % Hauptteil (ab hier arab. Seitenzahlen)  
+           ^
+Warning 24 in chapters/einleitung.tex line 2: Delete this space to maintain correct pagereferences.
+\label{cha:Einleitung}  
+^
+Warning 1 in chapters/einleitung.tex line 6: Command terminated with space.
+Erstellen einer Masterarbeit (oder Bachelorarbeit) mit \latex  
+                                                             ^
+Warning 1 in chapters/einleitung.tex line 10: Command terminated with space.
+bestehende Vorlage einfach in \latex zu übernehmen, wurde rasch  
+                                    ^
+Warning 1 in chapters/einleitung.tex line 20: Command terminated with space.
+\latex verfügt. In diesem Fall sollte -- eine einwandfreie  
+      ^
+Warning 8 in chapters/einleitung.tex line 20: Wrong length of dash may have been used.
+\latex verfügt. In diesem Fall sollte -- eine einwandfreie  
+                                       ^^
+Warning 8 in chapters/einleitung.tex line 21: Wrong length of dash may have been used.
+Installation der Software vorausgesetzt -- der Arbeit nichts mehr  
+                                        ^^
+Warning 1 in chapters/einleitung.tex line 34: Command terminated with space.
+traditionell mithilfe des Textverarbeitungssystems \latex  
+                                                         ^
+Warning 2 in chapters/einleitung.tex line 35: Non-breaking space (`~') should have been used.
+\cite{Lamport1994, Lamport1995} gesetzt. Das hat gute Gründe, denn  
+^
+Warning 1 in chapters/einleitung.tex line 36: Command terminated with space.
+\latex ist bzgl.\ der Qualität des Druckbilds, des Umgangs mit  
+      ^
+Warning 1 in chapters/einleitung.tex line 38: Command terminated with space.
+unübertroffen und ist noch dazu frei verfügbar. Wer mit \latex  
+                                                                ^
+Warning 8 in chapters/einleitung.tex line 58: Wrong length of dash may have been used.
+lässt -- zumindest für das geschulte Auge -- einiges zu wünschen  
+       ^^
+Warning 8 in chapters/einleitung.tex line 58: Wrong length of dash may have been used.
+lässt -- zumindest für das geschulte Auge -- einiges zu wünschen  
+                                            ^^
+Warning 8 in chapters/einleitung.tex line 83: Wrong length of dash may have been used.
+die Inhalte des \emph{Anhangs} -- sofern vorgesehen -- sollten hier  
+                               ^^
+Warning 8 in chapters/einleitung.tex line 83: Wrong length of dash may have been used.
+die Inhalte des \emph{Anhangs} -- sofern vorgesehen -- sollten hier  
+                                                    ^^
+Warning 2 in chapters/einleitung.tex line 86: Non-breaking space (`~') should have been used.
+Zunächst sind in Kapitel \ref{cha:Abschlussarbeit} einige wichtige  
+                         ^
+Warning 2 in chapters/einleitung.tex line 88: Non-breaking space (`~') should have been used.
+Kapitel \ref{cha:ArbeitenMitLatex} beschreibt die Idee und die  
+       ^
+Warning 2 in chapters/einleitung.tex line 90: Non-breaking space (`~') should have been used.
+Kapitel \ref{cha:Abbildungen} widmet sich der Erstellung von Abbildungen  
+       ^
+Warning 2 in chapters/einleitung.tex line 92: Non-breaking space (`~') should have been used.
+Mathematische Elemente und Gleichungen sind das Thema in Kapitel \ref{cha:Mathematik}   
+                                                                ^
+Warning 1 in chapters/einleitung.tex line 93: Command terminated with space.
+\usw  
+    ^
+Warning 2 in chapters/einleitung.tex line 94: Non-breaking space (`~') should have been used.
+Anhang \ref{app:TechnischeInfos} enthält technische Details zu  
+      ^
+Warning 2 in chapters/einleitung.tex line 96: Non-breaking space (`~') should have been used.
+Anhang \ref{app:cdrom} enthält eine Auflistung von zugehörigen Materialien  
+      ^
+Warning 2 in chapters/einleitung.tex line 98: Non-breaking space (`~') should have been used.
+Anhang \ref{app:Fragebogen} zeigt ein Beispiel für die  
+      ^
+Warning 24 in chapters/abschlussarbeit.tex line 2: Delete this space to maintain correct pagereferences.
+\label{cha:Abschlussarbeit}  
+^
+Warning 18 in chapters/abschlussarbeit.tex line 19: Use either `` or '' as an alternative to `"'.
+oder Wissenschaft ("State-Of-The-Art") beschrieben, es werden bestehende  
+                   ^
+Warning 18 in chapters/abschlussarbeit.tex line 19: Use either `` or '' as an alternative to `"'.
+oder Wissenschaft ("State-Of-The-Art") beschrieben, es werden bestehende  
+                                    ^
+Warning 8 in chapters/abschlussarbeit.tex line 23: Wrong length of dash may have been used.
+wird gezeigt, wie die vorher beschriebene Aufgabenstellung gelöst und --  
+                                                                       ^^
+Warning 8 in chapters/abschlussarbeit.tex line 26: Wrong length of dash may have been used.
+allerdings oft unrichtig dekliniert wird. Richtig ist: der \emph{Prototyp}, des \emph{Prototyps}, dem/den \emph{Protototyp} -- falsch hingegen \zB: des \emph{Prototyp\underline{en}}!  
+                                                                                                                            ^^
+Warning 13 in chapters/abschlussarbeit.tex line 26: Intersentence spacing (`\@') should perhaps be used.
+allerdings oft unrichtig dekliniert wird. Richtig ist: der \emph{Prototyp}, des \emph{Prototyps}, dem/den \emph{Protototyp} -- falsch hingegen \zB: des \emph{Prototyp\underline{en}}!  
+                                                                                                                                                  ^
+Warning 8 in chapters/abschlussarbeit.tex line 27: Wrong length of dash may have been used.
+} --  
+  ^^
+Warning 8 in chapters/abschlussarbeit.tex line 35: Wrong length of dash may have been used.
+wenig Zeit hat und -- anders als etwa bei einem Roman -- seine  
+                   ^^
+Warning 8 in chapters/abschlussarbeit.tex line 35: Wrong length of dash may have been used.
+wenig Zeit hat und -- anders als etwa bei einem Roman -- seine  
+                                                      ^^
+Warning 24 in chapters/abschlussarbeit.tex line 50: Delete this space to maintain correct pagereferences.
+\label{sec:englisch}  
+^
+Warning 18 in chapters/abschlussarbeit.tex line 59: Use either `` or '' as an alternative to `"'.
+Der Begriff "Fachhochschule" wird dabei entweder gar nicht  
+            ^
+Warning 18 in chapters/abschlussarbeit.tex line 59: Use either `` or '' as an alternative to `"'.
+Der Begriff "Fachhochschule" wird dabei entweder gar nicht  
+                           ^
+Warning 8 in chapters/abschlussarbeit.tex line 60: Wrong length of dash may have been used.
+übersetzt oder -- wie im deutschsprachigen Raum mittlerweile üblich --   
+                ^^
+Warning 8 in chapters/abschlussarbeit.tex line 60: Wrong length of dash may have been used.
+übersetzt oder -- wie im deutschsprachigen Raum mittlerweile üblich --   
+                                                                      ^^
+Warning 18 in chapters/abschlussarbeit.tex line 70: Use either `` or '' as an alternative to `"'.
+scheinbar leichter "aus der Feder" fließen. Gerade im Bereich  
+                   ^
+Warning 18 in chapters/abschlussarbeit.tex line 70: Use either `` or '' as an alternative to `"'.
+scheinbar leichter "aus der Feder" fließen. Gerade im Bereich  
+                                 ^
+Warning 18 in chapters/abschlussarbeit.tex line 83: Use either `` or '' as an alternative to `"'.
+empfehlen, die fertige Arbeit von einem "native speaker"  
+                                        ^
+Warning 18 in chapters/abschlussarbeit.tex line 83: Use either `` or '' as an alternative to `"'.
+empfehlen, die fertige Arbeit von einem "native speaker"  
+                                                       ^
+Warning 18 in chapters/abschlussarbeit.tex line 94: Use either `` or '' as an alternative to `"'.
+\item  Die Titelseite (mit der Bezeichnung "Diplomarbeit" oder "Masterarbeit")   
+                                           ^
+Warning 18 in chapters/abschlussarbeit.tex line 94: Use either `` or '' as an alternative to `"'.
+\item  Die Titelseite (mit der Bezeichnung "Diplomarbeit" oder "Masterarbeit")   
+                                                        ^
+Warning 18 in chapters/abschlussarbeit.tex line 94: Use either `` or '' as an alternative to `"'.
+\item  Die Titelseite (mit der Bezeichnung "Diplomarbeit" oder "Masterarbeit")   
+                                                               ^
+Warning 18 in chapters/abschlussarbeit.tex line 94: Use either `` or '' as an alternative to `"'.
+\item  Die Titelseite (mit der Bezeichnung "Diplomarbeit" oder "Masterarbeit")   
+                                                                            ^
+Warning 24 in chapters/latex.tex line 2: Delete this space to maintain correct pagereferences.
+\label{cha:ArbeitenMitLatex}  
+^
+Warning 24 in chapters/latex.tex line 5: Delete this space to maintain correct pagereferences.
+\label{sec:LatexEinstieg}  
+^
+Warning 1 in chapters/latex.tex line 7: Command terminated with space.
+\latex ist eine in den Naturwissenschaften sehr verbreitete  
+      ^
+Warning 1 in chapters/latex.tex line 10: Command terminated with space.
+Das Arbeiten mit \latex erscheint -- zumindest für den ungeübten Benutzer -- %  
+                       ^
+Warning 8 in chapters/latex.tex line 10: Wrong length of dash may have been used.
+Das Arbeiten mit \latex erscheint -- zumindest für den ungeübten Benutzer -- %  
+                                  ^^
+Warning 8 in chapters/latex.tex line 10: Wrong length of dash may have been used.
+Das Arbeiten mit \latex erscheint -- zumindest für den ungeübten Benutzer -- %  
+                                                                            ^^
+Warning 8 in chapters/latex.tex line 14: Wrong length of dash may have been used.
+Zum Ersten ist -- im Unterschied zu den meisten gängigen  
+               ^^
+Warning 8 in chapters/latex.tex line 15: Wrong length of dash may have been used.
+Text\-ver\-arbei\-tungs\-prog\-ram\-men -- \latex nicht \textsc{Wysiwyg}%  
+                                        ^^
+Warning 1 in chapters/latex.tex line 15: Command terminated with space.
+Text\-ver\-arbei\-tungs\-prog\-ram\-men -- \latex nicht \textsc{Wysiwyg}%  
+                                                 ^
+Warning 18 in chapters/latex.tex line 16: Use either `` or '' as an alternative to `"'.
+\footnote{"What You See Is What You Get." Es gibt auch   
+          ^
+Warning 18 in chapters/latex.tex line 16: Use either `` or '' as an alternative to `"'.
+\footnote{"What You See Is What You Get." Es gibt auch   
+                                        ^
+Warning 8 in chapters/latex.tex line 21: Wrong length of dash may have been used.
+sondern es handelt sich um eine \emph{Markup Lang\-uage} (wie HTML) -- noch dazu  
+                                                                    ^^
+Warning 8 in chapters/latex.tex line 22: Wrong length of dash may have been used.
+eine für den Anfänger recht komplizierte -- und zugehörige Werkzeuge.  
+                                           ^^
+Warning 1 in chapters/latex.tex line 36: Command terminated with space.
+Allerdings sollte mithilfe von \latex ein professionell aussehendes  
+                                     ^
+Warning 18 in chapters/latex.tex line 43: Use either `` or '' as an alternative to `"'.
+Das Makro \texttt{{\bs}optbreaknh} ("optional break with no hyphen") ist in   
+                                    ^
+Warning 18 in chapters/latex.tex line 43: Use either `` or '' as an alternative to `"'.
+Das Makro \texttt{{\bs}optbreaknh} ("optional break with no hyphen") ist in   
+                                                                  ^
+Warning 24 in chapters/latex.tex line 48: Delete this space to maintain correct pagereferences.
+\label{sec:Software}  
+^
+Warning 1 in chapters/latex.tex line 50: Command terminated with space.
+Zum Arbeiten mit \latex wird -- neben einem Computer -- natürlich Software benötigt. Mussten früher oft die einzelnen Komponenten von \latex mühevoll zusammengesucht und für die eigene Umgebung konfiguriert werden, gibt es mittlerweile für die wichtigsten Plattformen (Windows, Mac~Os, Linux) fertige \latex-Installationen, die ohne weiteres Zutun laufen. Die aktuelle Version von \latex\ ist \LaTeXe\ (sprich "LaTeX zwei e").   
+                       ^
+Warning 8 in chapters/latex.tex line 50: Wrong length of dash may have been used.
+Zum Arbeiten mit \latex wird -- neben einem Computer -- natürlich Software benötigt. Mussten früher oft die einzelnen Komponenten von \latex mühevoll zusammengesucht und für die eigene Umgebung konfiguriert werden, gibt es mittlerweile für die wichtigsten Plattformen (Windows, Mac~Os, Linux) fertige \latex-Installationen, die ohne weiteres Zutun laufen. Die aktuelle Version von \latex\ ist \LaTeXe\ (sprich "LaTeX zwei e").   
+                             ^^
+Warning 8 in chapters/latex.tex line 50: Wrong length of dash may have been used.
+Zum Arbeiten mit \latex wird -- neben einem Computer -- natürlich Software benötigt. Mussten früher oft die einzelnen Komponenten von \latex mühevoll zusammengesucht und für die eigene Umgebung konfiguriert werden, gibt es mittlerweile für die wichtigsten Plattformen (Windows, Mac~Os, Linux) fertige \latex-Installationen, die ohne weiteres Zutun laufen. Die aktuelle Version von \latex\ ist \LaTeXe\ (sprich "LaTeX zwei e").   
+                                                     ^^
+Warning 1 in chapters/latex.tex line 50: Command terminated with space.
+Zum Arbeiten mit \latex wird -- neben einem Computer -- natürlich Software benötigt. Mussten früher oft die einzelnen Komponenten von \latex mühevoll zusammengesucht und für die eigene Umgebung konfiguriert werden, gibt es mittlerweile für die wichtigsten Plattformen (Windows, Mac~Os, Linux) fertige \latex-Installationen, die ohne weiteres Zutun laufen. Die aktuelle Version von \latex\ ist \LaTeXe\ (sprich "LaTeX zwei e").   
+                                                                                                                                               ^
+Warning 18 in chapters/latex.tex line 50: Use either `` or '' as an alternative to `"'.
+Zum Arbeiten mit \latex wird -- neben einem Computer -- natürlich Software benötigt. Mussten früher oft die einzelnen Komponenten von \latex mühevoll zusammengesucht und für die eigene Umgebung konfiguriert werden, gibt es mittlerweile für die wichtigsten Plattformen (Windows, Mac~Os, Linux) fertige \latex-Installationen, die ohne weiteres Zutun laufen. Die aktuelle Version von \latex\ ist \LaTeXe\ (sprich "LaTeX zwei e").   
+                                                                                                                                                                                                                                                                                                                                                                                                                                ^
+Warning 18 in chapters/latex.tex line 50: Use either `` or '' as an alternative to `"'.
+Zum Arbeiten mit \latex wird -- neben einem Computer -- natürlich Software benötigt. Mussten früher oft die einzelnen Komponenten von \latex mühevoll zusammengesucht und für die eigene Umgebung konfiguriert werden, gibt es mittlerweile für die wichtigsten Plattformen (Windows, Mac~Os, Linux) fertige \latex-Installationen, die ohne weiteres Zutun laufen. Die aktuelle Version von \latex\ ist \LaTeXe\ (sprich "LaTeX zwei e").   
+                                                                                                                                                                                                                                                                                                                                                                                                                                             ^
+Warning 24 in chapters/latex.tex line 63: Delete this space to maintain correct pagereferences.
+\label{sec:Windows}  
+^
+Warning 1 in chapters/latex.tex line 66: Command terminated with space.
+mit dem \ua auch dieses Dokument erstellt wurde:  
+           ^
+Warning 24 in chapters/latex.tex line 93: Delete this space to maintain correct pagereferences.
+\label{sec:MacOs}  
+^
+Warning 8 in chapters/latex.tex line 98: Wrong length of dash may have been used.
+\footnote{\url{http://www.bobsoft-mac.de/texnicle/texnicle.html}} zur Verfügung. Er bietet -- ähnlich wie \emph{TeXnicCenter} unter Windows -- einen projektbasierten Workflow an.  
+                                                                                            ^^
+Warning 8 in chapters/latex.tex line 98: Wrong length of dash may have been used.
+\footnote{\url{http://www.bobsoft-mac.de/texnicle/texnicle.html}} zur Verfügung. Er bietet -- ähnlich wie \emph{TeXnicCenter} unter Windows -- einen projektbasierten Workflow an.  
+                                                                                                                                              ^^
+Warning 24 in chapters/latex.tex line 116: Delete this space to maintain correct pagereferences.
+\label{sec:literatur}  
+^
+Warning 1 in chapters/latex.tex line 118: Command terminated with space.
+Es ist müßig, ohne geeignete Literatur mit \latex zu beginnen, selbst  
+                                                   ^
+Warning 1 in chapters/latex.tex line 121: Command terminated with space.
+Gute Startpunkte sind \zB  
+                         ^
+Warning 1 in chapters/latex.tex line 130: Command terminated with space.
+Als mittlerweile bereits klassisches Handbuch zu \latex ist  
+                                                       ^
+Warning 2 in chapters/latex.tex line 133: Non-breaking space (`~') should have been used.
+  \item \emph{A Guide to \textrm{\LaTeX}} von H.~Kopka und P.~Daly \cite{Kopka2003}  
+                                                                  ^
+Warning 1 in chapters/latex.tex line 138: Command terminated with space.
+\latex und verwandten Themen finden sich \ua im Rahmen des {\em  
+      ^
+Warning 1 in chapters/latex.tex line 138: Command terminated with space.
+\latex und verwandten Themen finden sich \ua im Rahmen des {\em  
+                                            ^
+Warning 6 in chapters/latex.tex line 139: No italic correction (`\/') found.
+Comprehensive TeX Archive Network} (CTAN) auf  
+                                 ^
+Warning 42 in chapters/latex.tex line 142: You should remove spaces in front of `\footnote'
+        \footnote{\url{https://www.ctan.org/topic/}}  
+       ^
+Warning 2 in chapters/latex.tex line 146: Non-breaking space (`~') should have been used.
+\emph{Comprehensive List of \textrm{\latex} Symbols} \cite{Pakin2017}  
+                                                    ^
+Warning 2 in chapters/latex.tex line 150: Non-breaking space (`~') should have been used.
+  \texttt{babel} \cite{Bezos2018},\newline  
+                ^
+Warning 2 in chapters/latex.tex line 151: Non-breaking space (`~') should have been used.
+  \texttt{graphics}, \texttt{graphicx} \cite{Carlisle2017},\newline  
+                                      ^
+Warning 2 in chapters/latex.tex line 152: Non-breaking space (`~') should have been used.
+  \texttt{fancyhdr} \cite{Oostrum2019},\newline  
+                   ^
+Warning 2 in chapters/latex.tex line 153: Non-breaking space (`~') should have been used.
+  \texttt{caption} \cite{Sommerfeldt2011}.  
+                  ^
+Warning 1 in chapters/latex.tex line 163: Command terminated with space.
+\latex verwendet normalerweise die Schriften der \emph{Computer  
+      ^
+Warning 1 in chapters/latex.tex line 167: Command terminated with space.
+wurden. Die drei Basis-Schrifttypen der CM-Serie in \latex sind  
+                                                          ^
+Warning 1 in chapters/latex.tex line 178: Command terminated with space.
+Zeitlosigkeit dieser Schriften ein Grund, \latex für seriöse  
+                                                ^
+Warning 1 in chapters/latex.tex line 183: Command terminated with space.
+Darüber hinaus können aber in \latex auch beliebige   
+                                      ^
+Warning 18 in chapters/latex.tex line 185: Use either `` or '' as an alternative to `"'.
+der Praxis einiges an "Tuning"-Arbeit verlangt. Häufig verwendet  
+                      ^
+Warning 18 in chapters/latex.tex line 185: Use either `` or '' as an alternative to `"'.
+der Praxis einiges an "Tuning"-Arbeit verlangt. Häufig verwendet  
+                             ^
+Warning 18 in chapters/latex.tex line 196: Use either `` or '' as an alternative to `"'.
+\item Die Auszeichnung in \textit{Kursivschrift} oder "italic" (\verb!\textit{..}!) ist \va\ zum Hervorheben von  
+                                                      ^
+Warning 18 in chapters/latex.tex line 196: Use either `` or '' as an alternative to `"'.
+\item Die Auszeichnung in \textit{Kursivschrift} oder "italic" (\verb!\textit{..}!) ist \va\ zum Hervorheben von  
+                                                             ^
+Warning 1 in chapters/latex.tex line 198: Command terminated with space.
+Produktbezeichnungen, Fremdwörter und Variablen im Text, \zB  
+                                                             ^
+Warning 18 in chapters/latex.tex line 227: Use either `` or '' as an alternative to `"'.
+"Richtige" tut:   
+^
+Warning 18 in chapters/latex.tex line 227: Use either `` or '' as an alternative to `"'.
+"Richtige" tut:   
+         ^
+Warning 1 in chapters/latex.tex line 252: Command terminated with space.
+Ausnahmefällen verwendet werden, \zB  
+                                     ^
+Warning 1 in chapters/latex.tex line 265: Command terminated with space.
+Zur Strukturierung des eigenen Text stellt \latex eine Reihe von Auszeichnungen zur Verfügung.  
+                                                 ^
+Warning 24 in chapters/latex.tex line 319: Delete this space to maintain correct pagereferences.
+\label{sec:ueberschriften}  
+^
+Warning 8 in chapters/latex.tex line 321: Wrong length of dash may have been used.
+\latex\ bietet -- abhängig von der verwendeten Dokumentenklasse --  
+               ^^
+Warning 8 in chapters/latex.tex line 321: Wrong length of dash may have been used.
+\latex\ bietet -- abhängig von der verwendeten Dokumentenklasse --  
+                                                                 ^^
+Warning 6 in chapters/latex.tex line 325: No italic correction (`\/') found.
+\verb!\part{!\texttt{\em Titel}\verb!}!%  
+                              ^
+Warning 6 in chapters/latex.tex line 331: No italic correction (`\/') found.
+\verb!\chapter{!\texttt{\em Titel}\verb!}! \newline%  
+                                 ^
+Warning 6 in chapters/latex.tex line 332: No italic correction (`\/') found.
+\verb!\section{!\texttt{\em Titel}\verb!}! \newline%  
+                                 ^
+Warning 6 in chapters/latex.tex line 333: No italic correction (`\/') found.
+\verb!\subsection{!\texttt{\em Titel}\verb!}! \newline%  
+                                    ^
+Warning 6 in chapters/latex.tex line 334: No italic correction (`\/') found.
+\verb!\subsubsection{!\texttt{\em Titel}\verb!}! \newline%  
+                                       ^
+Warning 6 in chapters/latex.tex line 335: No italic correction (`\/') found.
+\verb!\paragraph{!\texttt{\em Titel}\verb!}! \newline%  
+                                   ^
+Warning 6 in chapters/latex.tex line 336: No italic correction (`\/') found.
+\verb!\subparagraph{!\texttt{\em Titel}\verb!}!  
+                                      ^
+Warning 8 in chapters/latex.tex line 341: Wrong length of dash may have been used.
+\verb!\subparagraph{}! läuft -- wie in diesem Absatz zu sehen --  
+                              ^^
+Warning 8 in chapters/latex.tex line 341: Wrong length of dash may have been used.
+\verb!\subparagraph{}! läuft -- wie in diesem Absatz zu sehen --  
+                                                               ^^
+Warning 8 in chapters/latex.tex line 352: Wrong length of dash may have been used.
+\latex\ sind -- ähnlich wie in HTML -- drei Arten von formatierten  
+             ^^
+Warning 8 in chapters/latex.tex line 352: Wrong length of dash may have been used.
+\latex\ sind -- ähnlich wie in HTML -- drei Arten von formatierten  
+                                     ^^
+Warning 18 in chapters/latex.tex line 353: Use either `` or '' as an alternative to `"'.
+Listen verfügbar: ungeordnete Auflistung ("Knödelliste"),  
+                                           ^
+Warning 18 in chapters/latex.tex line 353: Use either `` or '' as an alternative to `"'.
+Listen verfügbar: ungeordnete Auflistung ("Knödelliste"),  
+                                                        ^
+Warning 6 in chapters/latex.tex line 363: No italic correction (`\/') found.
+Listeneinträge werden mit \verb!\item! markiert, bei \texttt{description}-Listen mit \verb!\item[!\texttt{\em titel}\verb!]!. Listen  
+                                                                                                                    ^
+Warning 8 in chapters/latex.tex line 371: Wrong length of dash may have been used.
+Abschlussarbeiten werden -- wie Bücher -- in der Regel einspaltig und  
+                         ^^
+Warning 8 in chapters/latex.tex line 371: Wrong length of dash may have been used.
+Abschlussarbeiten werden -- wie Bücher -- in der Regel einspaltig und  
+                                        ^^
+Warning 18 in chapters/latex.tex line 376: Use either `` or '' as an alternative to `"'.
+Gewissen zum Flattersatz ("ragged right") gegriffen werden sollte (wie  
+                          ^
+Warning 18 in chapters/latex.tex line 376: Use either `` or '' as an alternative to `"'.
+Gewissen zum Flattersatz ("ragged right") gegriffen werden sollte (wie  
+                                       ^
+Warning 2 in chapters/latex.tex line 378: Non-breaking space (`~') should have been used.
+\pageref{tab:synthesis-techniques}).  
+^
+Warning 6 in chapters/latex.tex line 386: No italic correction (`\/') found.
+\verb!\footnote{!\texttt{\em Fußnotentext}\verb!}!  
+                                          ^
+Error 14 in chapters/latex.tex line 391: Could not find argument for command.
+Zeilen\-um\-brüche mit \verb!%! auskommentieren).  
+                        ^^^^^
+Warning 18 in chapters/latex.tex line 418: Use either `` or '' as an alternative to `"'.
+dieser Stelle durch die Direktive \verb!\protect! "geschützt"  
+                                                  ^
+Warning 18 in chapters/latex.tex line 418: Use either `` or '' as an alternative to `"'.
+dieser Stelle durch die Direktive \verb!\protect! "geschützt"  
+                                                             ^
+Error 14 in chapters/latex.tex line 419: Could not find argument for command.
+werden muss. Die \verb!%!-Zeichen sind hier übrigens notwendig,  
+                 ^^^^^
+Warning 24 in chapters/latex.tex line 436: Delete this space to maintain correct pagereferences.
+\label{sec:querverweise}  
+^
+Warning 6 in chapters/latex.tex line 444: No italic correction (`\/') found.
+\verb!\label{!\texttt{\em key}\verb!}!  
+                             ^
+Warning 6 in chapters/latex.tex line 447: No italic correction (`\/') found.
+markiert werden, wobei \texttt{\em key} ein gültiges \latex-Symbol sein  
+                                      ^
+Warning 6 in chapters/latex.tex line 455: No italic correction (`\/') found.
+\verb!cha:!\texttt{\em kapitel}   & \ \ldots\ für Kapitel  \\  
+                              ^
+Warning 6 in chapters/latex.tex line 456: No italic correction (`\/') found.
+\verb!sec:!\texttt{\em abschnitt} & \ \ldots\ für Abschnitte (Sections) und Unterabschnitte \\  
+                                ^
+Warning 6 in chapters/latex.tex line 457: No italic correction (`\/') found.
+\verb!fig:!\texttt{\em abbildung} & \ \ldots\ für Abbildungen \\  
+                                ^
+Warning 6 in chapters/latex.tex line 458: No italic correction (`\/') found.
+\verb!tab:!\texttt{\em tabelle}   & \ \ldots\ für Tabellen \\  
+                              ^
+Warning 6 in chapters/latex.tex line 459: No italic correction (`\/') found.
+\verb!equ:!\texttt{\em gleichung} & \ \ldots\ für Formeln und Gleichungen\\  
+                                ^
+Warning 6 in chapters/latex.tex line 467: No italic correction (`\/') found.
+\verb!\ref{!\texttt{\em key}\verb!}!   
+                           ^
+Warning 6 in chapters/latex.tex line 469: No italic correction (`\/') found.
+\verb!\pageref{!\texttt{\em key}\verb!}!  
+                               ^
+Warning 6 in chapters/latex.tex line 472: No italic correction (`\/') found.
+kann an beliebiger Stelle im Dokument die zu \texttt{\em key} gehörige  
+                                                            ^
+Warning 6 in chapters/latex.tex line 481: No italic correction (`\/') found.
+Abschnitt} auffallend oft falsch verwendet -- Kapitel haben  
+         ^
+Warning 8 in chapters/latex.tex line 481: Wrong length of dash may have been used.
+Abschnitt} auffallend oft falsch verwendet -- Kapitel haben  
+                                           ^^
+Warning 18 in chapters/latex.tex line 482: Use either `` or '' as an alternative to `"'.
+ausschließlich "ungebrochene" Nummern:  
+                ^
+Warning 18 in chapters/latex.tex line 482: Use either `` or '' as an alternative to `"'.
+ausschließlich "ungebrochene" Nummern:  
+                             ^
+Warning 1 in chapters/latex.tex line 494: Command terminated with space.
+Während \latex in vielen Bereichen des Schriftsatzes automatisch das bestmögliche Ergebnis zu erzielen versucht, ist im Bereich der Interpunktion Sorgfalt von Seiten des Autors gefragt.  
+               ^
+Warning 18 in chapters/latex.tex line 503: Use either `` or '' as an alternative to `"'.
+Dokument). Falls die englische ("nicht-französische") Satztrennung mit  
+                                ^
+Warning 18 in chapters/latex.tex line 503: Use either `` or '' as an alternative to `"'.
+Dokument). Falls die englische ("nicht-französische") Satztrennung mit  
+                                                    ^
+Warning 26 in chapters/latex.tex line 513: You ought to remove spaces in front of punctuation.
+Sätzen (nach .\ und :) sorgfältig beachtet weren. Beispielsweise  
+             ^
+Warning 26 in chapters/latex.tex line 513: You ought to remove spaces in front of punctuation.
+Sätzen (nach .\ und :) sorgfältig beachtet weren. Beispielsweise  
+                    ^
+Warning 18 in chapters/latex.tex line 514: Use either `` or '' as an alternative to `"'.
+schreibt sich "Dr.\ Mabuse" in der Form  
+              ^
+Warning 18 in chapters/latex.tex line 514: Use either `` or '' as an alternative to `"'.
+schreibt sich "Dr.\ Mabuse" in der Form  
+                          ^
+Warning 24 in chapters/latex.tex line 524: Delete this space to maintain correct pagereferences.
+\label{sec:gedankenstrich}  
+^
+Warning 18 in chapters/latex.tex line 531: Use either `` or '' as an alternative to `"'.
+\item kurzen Bindestrichen (wie in "Wagner-Jauregg"), %  
+                                   ^
+Warning 18 in chapters/latex.tex line 531: Use either `` or '' as an alternative to `"'.
+\item kurzen Bindestrichen (wie in "Wagner-Jauregg"), %  
+                                                  ^
+Warning 8 in chapters/latex.tex line 533: Wrong length of dash may have been used.
+\item echten Gedankenstrichen -- wie hier (erzeugt mit \verb!--!).  
+                              ^^
+Warning 8 in chapters/latex.tex line 543: Wrong length of dash may have been used.
+\footnote{Halbgeviertstrich (\emph{En Dash}).} -- wie hier (in  
+                                               ^^
+Warning 24 in chapters/latex.tex line 558: Delete this space to maintain correct pagereferences.
+\label{sec:kommentare}  
+^
+Error 14 in chapters/latex.tex line 561: Could not find argument for command.
+Textteile können in \latex\ zeilenweise mit \verb!%! auskommentiert werden. Der einem   
+                                             ^^^^^
+Error 14 in chapters/latex.tex line 562: Could not find argument for command.
+\verb!%!-Zeichen nachfolgenden Text wird bis zum nächsten Zeilenende überlesen:  
+^^^^^
+Error 14 in chapters/latex.tex line 565: Could not find argument for command.
+\verb!Das wird gedruckt. %Dieser Text wird ignoriert.!  
+^^^^^
+Error 14 in chapters/latex.tex line 570: Could not find argument for command.
+Folgendes Beispiel zeigt etwa, wie mit \verb!%! am Zeilenende das Entstehen  
+                                       ^^^^^
+Warning 24 in chapters/latex.tex line 616: Delete this space to maintain correct pagereferences.
+\label{sec:anfuehrungszeichen}  
+^
+Warning 1 in chapters/latex.tex line 659: Command terminated with space.
+Es genügt hier die Verwendung eines doppelten (geraden) Hochkommas \texttt{\textquotedbl}, wie \zB  
+                                                                                                   ^
+Warning 18 in chapters/latex.tex line 662: Use either `` or '' as an alternative to `"'.
+\begin{english}\verb!"English"! $\rightarrow$ "English"\end{english}\ (bei Spracheinstellung \texttt{english}),\\  
+                                              ^
+Warning 18 in chapters/latex.tex line 662: Use either `` or '' as an alternative to `"'.
+\begin{english}\verb!"English"! $\rightarrow$ "English"\end{english}\ (bei Spracheinstellung \texttt{english}),\\  
+                                                      ^
+Warning 18 in chapters/latex.tex line 663: Use either `` or '' as an alternative to `"'.
+\verb!"Deutsch"! $\rightarrow$ "Deutsch" (bei Spracheinstellung \texttt{german}).  
+                               ^
+Warning 18 in chapters/latex.tex line 663: Use either `` or '' as an alternative to `"'.
+\verb!"Deutsch"! $\rightarrow$ "Deutsch" (bei Spracheinstellung \texttt{german}).  
+                                       ^
+Warning 18 in chapters/latex.tex line 668: Use either `` or '' as an alternative to `"'.
+nicht möglich! Es sind mit dieser Einstellung auch alle weiteren "shorthands" des   
+                                                                  ^
+Warning 18 in chapters/latex.tex line 668: Use either `` or '' as an alternative to `"'.
+nicht möglich! Es sind mit dieser Einstellung auch alle weiteren "shorthands" des   
+                                                                             ^
+Warning 18 in chapters/latex.tex line 674: Use either `` or '' as an alternative to `"'.
+beidseitiges "outer quote" Zeichen gilt -- \va\ in Kombination mit der deutschen Sprache --  
+             ^
+Warning 18 in chapters/latex.tex line 674: Use either `` or '' as an alternative to `"'.
+beidseitiges "outer quote" Zeichen gilt -- \va\ in Kombination mit der deutschen Sprache --  
+                         ^
+Warning 8 in chapters/latex.tex line 674: Wrong length of dash may have been used.
+beidseitiges "outer quote" Zeichen gilt -- \va\ in Kombination mit der deutschen Sprache --  
+                                        ^^
+Warning 8 in chapters/latex.tex line 674: Wrong length of dash may have been used.
+beidseitiges "outer quote" Zeichen gilt -- \va\ in Kombination mit der deutschen Sprache --  
+                                                                                         ^^
+Warning 18 in chapters/latex.tex line 675: Use either `` or '' as an alternative to `"'.
+als "gefährlich", weil das \texttt{babel}-Paket das gerade Hochkomma für spezielle  
+    ^
+Warning 18 in chapters/latex.tex line 675: Use either `` or '' as an alternative to `"'.
+als "gefährlich", weil das \texttt{babel}-Paket das gerade Hochkomma für spezielle  
+                ^
+Warning 24 in chapters/latex.tex line 719: Delete this space to maintain correct pagereferences.
+\label{subsec:layout-abteilen}  
+^
+Warning 8 in chapters/latex.tex line 721: Wrong length of dash may have been used.
+Um ein sauberes Schriftbild zu erreichen sind -- speziell im  
+                                              ^^
+Warning 8 in chapters/latex.tex line 722: Wrong length of dash may have been used.
+Deutschen wegen der großen Wortlängen -- Abteilungen unerlässlich.  
+                                        ^^
+Warning 1 in chapters/latex.tex line 733: Command terminated with space.
+Besonders bei schmalen Textspalten kann es vorkommen, dass \latex  
+                                                                 ^
+Warning 18 in chapters/latex.tex line 785: Use either `` or '' as an alternative to `"'.
+\paragraph{"Schlampige" Formatierung:}  
+           ^
+Warning 18 in chapters/latex.tex line 785: Use either `` or '' as an alternative to `"'.
+\paragraph{"Schlampige" Formatierung:}  
+                      ^
+Warning 8 in chapters/latex.tex line 786: Wrong length of dash may have been used.
+In echten Problemfällen -- etwa bei Textelementen, die nicht umgebrochen   
+                         ^^
+Warning 8 in chapters/latex.tex line 787: Wrong length of dash may have been used.
+werden dürfen oder können -- kann \latex\ dazu veranlasst werden, in einzelnen Absätzen  
+                            ^^
+Warning 18 in chapters/latex.tex line 792: Use either `` or '' as an alternative to `"'.
+Dieser Absatz wird "schlampig" (sloppy) gesetzt ...  
+                   ^
+Warning 18 in chapters/latex.tex line 792: Use either `` or '' as an alternative to `"'.
+Dieser Absatz wird "schlampig" (sloppy) gesetzt ...  
+                             ^
+Warning 11 in chapters/latex.tex line 792: You should use \ldots to achieve an ellipsis.
+Dieser Absatz wird "schlampig" (sloppy) gesetzt ...  
+                                                ^^^
+Warning 26 in chapters/latex.tex line 792: You ought to remove spaces in front of punctuation.
+Dieser Absatz wird "schlampig" (sloppy) gesetzt ...  
+                                               ^
+Warning 8 in chapters/latex.tex line 797: Wrong length of dash may have been used.
+passabler Zeilenumbruch ergibt -- schließlich ist man ja selbst der Autor und   
+                               ^^
+Warning 24 in chapters/latex.tex line 828: Delete this space to maintain correct pagereferences.
+\label{sec:HagenbergEinstellungen}  
+^
+Warning 2 in chapters/latex.tex line 859: Non-breaking space (`~') should have been used.
+Der vollständige Quelltext für eine entsprechende \verb!.tex! Hauptdatei ist in Anhang \ref{app:latex}   
+                                                                                        ^
+Warning 2 in chapters/latex.tex line 867: Non-breaking space (`~') should have been used.
+Abhängig vom gewählten Dokumententyp sind unterschiedliche Elemente für die Titelseiten erforderlich (siehe Tabelle \ref{tab:TitelElemente}).  
+                                                                                                                      ^
+Warning 6 in chapters/latex.tex line 873: No italic correction (`\/') found.
+\verb!\title{!\texttt{\em Titel der Arbeit}\verb!}! \newline%  
+                                          ^
+Warning 6 in chapters/latex.tex line 874: No italic correction (`\/') found.
+\verb!\author{!\texttt{\em Autor}\verb!}! \newline%  
+                                ^
+Warning 6 in chapters/latex.tex line 875: No italic correction (`\/') found.
+\verb!\programname{!\texttt{\em Studiengang}\verb!}! \newline%  
+                                           ^
+Warning 6 in chapters/latex.tex line 876: No italic correction (`\/') found.
+\verb!\placeofstudy{!\texttt{\em Studienort}\verb!}! \newline%  
+                                           ^
+Warning 6 in chapters/latex.tex line 877: No italic correction (`\/') found.
+\verb!\dateofsubmission{!\texttt{\em yyyy}\verb!}{!\texttt{\em mm}\verb!}{!\texttt{\em dd}\verb!}!  
+                                         ^
+Warning 6 in chapters/latex.tex line 877: No italic correction (`\/') found.
+\verb!\dateofsubmission{!\texttt{\em yyyy}\verb!}{!\texttt{\em mm}\verb!}{!\texttt{\em dd}\verb!}!  
+                                                                 ^
+Warning 6 in chapters/latex.tex line 877: No italic correction (`\/') found.
+\verb!\dateofsubmission{!\texttt{\em yyyy}\verb!}{!\texttt{\em mm}\verb!}{!\texttt{\em dd}\verb!}!  
+                                                                                         ^
+Warning 6 in chapters/latex.tex line 883: No italic correction (`\/') found.
+\item[] \verb!\thesisnumber{!\texttt{\em laufende Nummer der Arbeit}\verb!}!%  
+                                                                   ^
+Warning 6 in chapters/latex.tex line 888: No italic correction (`\/') found.
+\verb!\coursetitle{!\texttt{\em Gegenstand oder Projektlehrveranstaltung}\verb!}! \newline%  
+                                                                        ^
+Warning 6 in chapters/latex.tex line 889: No italic correction (`\/') found.
+\verb!\semester{!\texttt{\em Semester der Lehrveranstaltung}\verb!}! \newline%  
+                                                           ^
+Warning 6 in chapters/latex.tex line 890: No italic correction (`\/') found.
+\verb!\advisor{!\texttt{\em Name des Betreuers/der Betreuerin}\verb!}!  
+                                                             ^
+Warning 6 in chapters/latex.tex line 898: No italic correction (`\/') found.
+\verb!\thesisnumber{!\texttt{\em laufende Nummer der Arbeit}\verb!}!%  
+                                                           ^
+Warning 6 in chapters/latex.tex line 906: No italic correction (`\/') found.
+\verb!\advisor{!\texttt{\em Betreuer oder Betreuerin im Unternehmen}\verb!}! \newline%  
+                                                                   ^
+Warning 6 in chapters/latex.tex line 907: No italic correction (`\/') found.
+\verb!\companyName{!\texttt{\em Name und Adresse der Firma}\verb!}! \newline%  
+                                                          ^
+Warning 6 in chapters/latex.tex line 908: No italic correction (`\/') found.
+\verb!\companyPhone{!\texttt{\em Telefonnummer der Firma}\verb!}! \newline%  
+                                                        ^
+Warning 6 in chapters/latex.tex line 909: No italic correction (`\/') found.
+\verb!\companyUrl{!\texttt{\em Website der Firma}\verb!}!  
+                                                ^
+Warning 24 in chapters/latex.tex line 914: Delete this space to maintain correct pagereferences.
+\label{tab:TitelElemente}  
+^
+Warning 44 in chapters/latex.tex line 923: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 44 in chapters/latex.tex line 935: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 44 in chapters/latex.tex line 954: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+  \hline  
+  ^^^^^^
+Warning 44 in chapters/latex.tex line 958: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+  \hline  
+  ^^^^^^
+Warning 39 in chapters/latex.tex line 967: Double space found.
+\item[\normalfont\texttt{{\bs}cclicense}] ~ \newline  
+                                         ^
+Warning 42 in chapters/latex.tex line 969: You should remove spaces in front of `\footnote'
+        \footnote{\url{http://creativecommons.org/licenses/by-nc-nd/3.0/}}  
+       ^
+Warning 39 in chapters/latex.tex line 973: Double space found.
+\item[\normalfont\texttt{{\bs}strictlicense}] ~ \newline   
+                                             ^
+Warning 39 in chapters/latex.tex line 976: Double space found.
+\item[\normalfont\texttt{{\bs}license\{\emph{Lizenztext}\}}] ~ \newline  
+                                                            ^
+Warning 18 in chapters/latex.tex line 994: Use either `` or '' as an alternative to `"'.
+"auffressen", sodass vor dem nachfolgenden Text kein Abstand erzeugt wird.%  
+^
+Warning 18 in chapters/latex.tex line 994: Use either `` or '' as an alternative to `"'.
+"auffressen", sodass vor dem nachfolgenden Text kein Abstand erzeugt wird.%  
+           ^
+Warning 1 in chapters/latex.tex line 995: Command terminated with space.
+\footnote{Bei fast allen in \texttt{hgb.sty} definierten Makros wird dies allerdings durch den Einsatz von \texttt{\textbackslash xspace} verhindert.}   
+                                                                                                                                 ^
+Warning 18 in chapters/latex.tex line 997: Use either `` or '' as an alternative to `"'.
+"\verb!\ !" oder umhüllenden \verb!{}!-Klammern verhindert werden.  
+^
+Warning 18 in chapters/latex.tex line 997: Use either `` or '' as an alternative to `"'.
+"\verb!\ !" oder umhüllenden \verb!{}!-Klammern verhindert werden.  
+          ^
+Warning 24 in chapters/latex.tex line 1004: Delete this space to maintain correct pagereferences.
+\label{tab:abkuerzungen}  
+^
+Warning 44 in chapters/latex.tex line 1007: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 1 in chapters/latex.tex line 1008: Command terminated with space.
+    \verb+\bzw+        & \bzw   & &  \verb+\ua+         & \ua \\  
+                             ^
+Warning 1 in chapters/latex.tex line 1008: Command terminated with space.
+    \verb+\bzw+        & \bzw   & &  \verb+\ua+         & \ua \\  
+                                                             ^
+Warning 1 in chapters/latex.tex line 1009: Command terminated with space.
+    \verb+\bzgl+       & \bzgl  & &  \verb+\Ua+         & \Ua \\  
+                              ^
+Warning 1 in chapters/latex.tex line 1009: Command terminated with space.
+    \verb+\bzgl+       & \bzgl  & &  \verb+\Ua+         & \Ua \\  
+                                                             ^
+Warning 1 in chapters/latex.tex line 1010: Command terminated with space.
+    \verb+\ca+         & \ca    & &  \verb+\uae+        & \uae \\  
+                            ^
+Warning 1 in chapters/latex.tex line 1010: Command terminated with space.
+    \verb+\ca+         & \ca    & &  \verb+\uae+        & \uae \\  
+                                                              ^
+Warning 1 in chapters/latex.tex line 1011: Command terminated with space.
+    \verb+\dah+        & \dah   & &  \verb+\usw+        & \usw \\  
+                             ^
+Warning 1 in chapters/latex.tex line 1011: Command terminated with space.
+    \verb+\dah+        & \dah   & &  \verb+\usw+        & \usw \\  
+                                                              ^
+Warning 1 in chapters/latex.tex line 1012: Command terminated with space.
+    \verb+\Dah+        & \Dah   & &  \verb+\uva+        & \uva \\  
+                             ^
+Warning 1 in chapters/latex.tex line 1012: Command terminated with space.
+    \verb+\Dah+        & \Dah   & &  \verb+\uva+        & \uva \\  
+                                                              ^
+Warning 1 in chapters/latex.tex line 1013: Command terminated with space.
+    \verb+\ds+         & \ds    & &  \verb+\uvm+        & \uvm \\  
+                            ^
+Warning 1 in chapters/latex.tex line 1013: Command terminated with space.
+    \verb+\ds+         & \ds    & &  \verb+\uvm+        & \uvm \\  
+                                                              ^
+Warning 1 in chapters/latex.tex line 1014: Command terminated with space.
+    \verb+\evtl+       & \evtl  & &  \verb+\va+         & \va \\  
+                              ^
+Warning 1 in chapters/latex.tex line 1014: Command terminated with space.
+    \verb+\evtl+       & \evtl  & &  \verb+\va+         & \va \\  
+                                                             ^
+Warning 1 in chapters/latex.tex line 1015: Command terminated with space.
+    \verb+\ia+         & \ia    & &  \verb+\vgl+        & \vgl \\  
+                            ^
+Warning 1 in chapters/latex.tex line 1015: Command terminated with space.
+    \verb+\ia+         & \ia    & &  \verb+\vgl+        & \vgl \\  
+                                                              ^
+Warning 1 in chapters/latex.tex line 1016: Command terminated with space.
+    \verb+\sa+         & \sa    & &  \verb+\zB+         & \zB \\  
+                            ^
+Warning 1 in chapters/latex.tex line 1016: Command terminated with space.
+    \verb+\sa+         & \sa    & &  \verb+\zB+         & \zB \\  
+                                                             ^
+Warning 1 in chapters/latex.tex line 1017: Command terminated with space.
+    \verb+\so+         & \so    & &  \verb+\ZB+         & \ZB \\  
+                            ^
+Warning 1 in chapters/latex.tex line 1017: Command terminated with space.
+    \verb+\so+         & \so    & &  \verb+\ZB+         & \ZB \\  
+                                                             ^
+Warning 1 in chapters/latex.tex line 1018: Command terminated with space.
+    \verb+\su+         & \su    & &  \verb+\etc+        & \etc \\  
+                            ^
+Warning 1 in chapters/latex.tex line 1018: Command terminated with space.
+    \verb+\su+         & \su    & &  \verb+\etc+        & \etc \\  
+                                                              ^
+Warning 44 in chapters/latex.tex line 1019: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 24 in chapters/latex.tex line 1028: Delete this space to maintain correct pagereferences.
+\label{sec:sprachumschaltung}  
+^
+Warning 18 in chapters/latex.tex line 1051: Use either `` or '' as an alternative to `"'.
+anzeigen. An dieser Stelle ergibt das etwa "\texttt{\languagename}" (\emph{new german}, \dah\ neue deutsche Rechtschreibung).  
+                                           ^
+Warning 18 in chapters/latex.tex line 1051: Use either `` or '' as an alternative to `"'.
+anzeigen. An dieser Stelle ergibt das etwa "\texttt{\languagename}" (\emph{new german}, \dah\ neue deutsche Rechtschreibung).  
+                                                                  ^
+Warning 1 in chapters/latex.tex line 1061: Command terminated with space.
+Teil der \latex\ Standard-Installation, wie \zB in MikTeX, wo  
+                                               ^
+Warning 1 in chapters/latex.tex line 1068: Command terminated with space.
+Alle sind in den gängigen \latex\ Standardinstallationen (\zB MikTeX) bereits enthalten.}  
+                                                              ^
+Warning 24 in chapters/latex.tex line 1069: Delete this space to maintain correct pagereferences.
+\label{tab:packages}  
+^
+Warning 44 in chapters/latex.tex line 1074: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 44 in chapters/latex.tex line 1101: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 13 in chapters/latex.tex line 1113: Intersentence spacing (`\@') should perhaps be used.
+sollten, \zB:  
+            ^
+Warning 8 in chapters/latex.tex line 1137: Wrong length of dash may have been used.
+Fehlermeldung) -- hier hilft meist nur eine genaue  
+               ^^
+Warning 24 in chapters/abbildungen.tex line 2: Delete this space to maintain correct pagereferences.
+\label{cha:Abbildungen}  
+^
+Warning 2 in chapters/abbildungen.tex line 15: Non-breaking space (`~') should have been used.
+\caption{Coca-Cola Werbung 1940 \cite{CocaCola1940}.}  
+                               ^
+Warning 24 in chapters/abbildungen.tex line 16: Delete this space to maintain correct pagereferences.
+\label{fig:CocaCola}  
+^
+Warning 1 in chapters/abbildungen.tex line 29: Command terminated with space.
+In \latex funktioniert das weitgehend automatisch, indem  
+         ^
+Warning 18 in chapters/abbildungen.tex line 30: Use either `` or '' as an alternative to `"'.
+Abbildungen, Tabellen und ähnliche als "Floating Bodies"  
+                                        ^
+Warning 18 in chapters/abbildungen.tex line 30: Use either `` or '' as an alternative to `"'.
+Abbildungen, Tabellen und ähnliche als "Floating Bodies"  
+                                                        ^
+Warning 18 in chapters/abbildungen.tex line 41: Use either `` or '' as an alternative to `"'.
+eingegriffen werden. Erst am Ende, wenn das gesamte Dokument "steht" und  
+                                                             ^
+Warning 18 in chapters/abbildungen.tex line 41: Use either `` or '' as an alternative to `"'.
+eingegriffen werden. Erst am Ende, wenn das gesamte Dokument "steht" und  
+                                                                   ^
+Warning 2 in chapters/abbildungen.tex line 43: Non-breaking space (`~') should have been used.
+\cite[S.~49]{Oetiker2018}) \textbf{in Einzelfällen} eingegriffen werden.  
+^
+Warning 8 in chapters/abbildungen.tex line 50: Wrong length of dash may have been used.
+Tabellen hingegen -- je nach Konvention -- \emph{oben} (wie in diesem Dokument)   
+                  ^^
+Warning 8 in chapters/abbildungen.tex line 50: Wrong length of dash may have been used.
+Tabellen hingegen -- je nach Konvention -- \emph{oben} (wie in diesem Dokument)   
+                                        ^^
+Warning 18 in chapters/abbildungen.tex line 61: Use either `` or '' as an alternative to `"'.
+\footnote{Ausnahmsweise wird das Wort "Caption" im Folgenden  
+                                      ^
+Warning 18 in chapters/abbildungen.tex line 61: Use either `` or '' as an alternative to `"'.
+\footnote{Ausnahmsweise wird das Wort "Caption" im Folgenden  
+                                              ^
+Warning 1 in chapters/abbildungen.tex line 62: Command terminated with space.
+ohne deutsche Übersetzung verwendet.} erfolgt in \latex mithilfe  
+                                                        ^
+Warning 2 in chapters/abbildungen.tex line 70: Non-breaking space (`~') should have been used.
+\caption{Coca-Cola Werbung 1940 \cite{CocaCola1940}.}  
+                               ^
+Warning 24 in chapters/abbildungen.tex line 71: Delete this space to maintain correct pagereferences.
+\label{fig:CocaCola}  
+^
+Warning 1 in chapters/abbildungen.tex line 86: Command terminated with space.
+wird (\latex macht das automatisch).  
+            ^
+Warning 18 in chapters/abbildungen.tex line 90: Use either `` or '' as an alternative to `"'.
+die abschließenden Punkte im Druck häufig "weggebrochen" sind.   
+                                            ^
+Warning 18 in chapters/abbildungen.tex line 90: Use either `` or '' as an alternative to `"'.
+die abschließenden Punkte im Druck häufig "weggebrochen" sind.   
+                                                         ^
+Warning 13 in chapters/abbildungen.tex line 106: Intersentence spacing (`\@') should perhaps be used.
+Bild zeigt in Wirklichkeit eine System/360 Anlage von IBM.   
+                                                         ^
+Warning 24 in chapters/abbildungen.tex line 108: Delete this space to maintain correct pagereferences.
+\label{fig:ibm360}  
+^
+Warning 1 in chapters/abbildungen.tex line 117: Command terminated with space.
+Für die Einbindung von Grafiken in \latex wird die Verwendung des Stan\-dard-Pakets  
+                                          ^
+Warning 2 in chapters/abbildungen.tex line 118: Non-breaking space (`~') should have been used.
+\texttt{graphicx} \cite{Carlisle2017} empfohlen   
+                 ^
+Warning 2 in chapters/abbildungen.tex line 141: Non-breaking space (`~') should have been used.
+am Beginn des Hauptdokuments \nolinkurl{_DaBa.tex} (\sa\ Anhang \ref{app:latex}):  
+                                                               ^
+Warning 13 in chapters/abbildungen.tex line 169: Intersentence spacing (`\@') should perhaps be used.
+Rahmen rund um die Grafik erzeugt werden, \zB:  
+                                             ^
+Warning 1 in chapters/abbildungen.tex line 184: Command terminated with space.
+(\zB mit \emph{Photoshop})  
+    ^
+Warning 24 in chapters/abbildungen.tex line 229: Delete this space to maintain correct pagereferences.
+\label{fig:jpeg-pfusch}  
+^
+Warning 1 in chapters/abbildungen.tex line 236: Command terminated with space.
+Für schematische Abbildungen (\zB Flussdiagramme, Entity-Relationship-Diagramme  
+                                  ^
+Warning 24 in chapters/abbildungen.tex line 260: Delete this space to maintain correct pagereferences.
+\label{sec:InkscapeGraphics}  
+^
+Warning 2 in chapters/abbildungen.tex line 272: Non-breaking space (`~') should have been used.
+Abbildung \ref{fig:InkscapeExample} zeigt ein Beispiel dazu:  
+         ^
+Warning 11 in chapters/abbildungen.tex line 280: You should use \ldots to achieve an ellipsis.
+Durch \textsf{Save a Copy...} (als PDF) in Inkscape, mit den Einstellungen wie in   
+                         ^^^
+Warning 32 in images/inkscape-template.pdf_tex line 30: Use ` to begin quotation, not '.
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%  
+                                                                                   ^
+Warning 32 in images/inkscape-template.pdf_tex line 34: Use ` to begin quotation, not '.
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%  
+                                                                                                     ^
+Warning 1 in images/inkscape-template.pdf_tex line 43: Command terminated with space.
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%  
+                                         ^
+Warning 18 in chapters/abbildungen.tex line 311: Use either `` or '' as an alternative to `"'.
+Beim Speichern in Inkscape (als PDF) ist auf die Einstellung "PDF+LaTeX" zu achten (c).}  
+                                                             ^
+Warning 18 in chapters/abbildungen.tex line 311: Use either `` or '' as an alternative to `"'.
+Beim Speichern in Inkscape (als PDF) ist auf die Einstellung "PDF+LaTeX" zu achten (c).}  
+                                                                       ^
+Warning 24 in chapters/abbildungen.tex line 312: Delete this space to maintain correct pagereferences.
+\label{fig:InkscapeExample}  
+^
+Warning 8 in chapters/abbildungen.tex line 329: Wrong length of dash may have been used.
+\subsubsection{Strichstärken -- \emph{Hairlines} vermeiden!}  
+                              ^^
+Warning 18 in chapters/abbildungen.tex line 334: Use either `` or '' as an alternative to `"'.
+"Hairline" zu definieren. Im zugehörigen \emph{PostScript}-Code  
+^
+Warning 18 in chapters/abbildungen.tex line 334: Use either `` or '' as an alternative to `"'.
+"Hairline" zu definieren. Im zugehörigen \emph{PostScript}-Code  
+         ^
+Warning 18 in chapters/abbildungen.tex line 336: Use either `` or '' as an alternative to `"'.
+sollte am Ausgabegerät "möglichst dünne" Linien ergeben.   
+                        ^
+Warning 18 in chapters/abbildungen.tex line 336: Use either `` or '' as an alternative to `"'.
+sollte am Ausgabegerät "möglichst dünne" Linien ergeben.   
+                                          ^
+Warning 24 in chapters/abbildungen.tex line 347: Delete this space to maintain correct pagereferences.
+\label{sec:tex-schriften-in-grafiken}  
+^
+Warning 6 in chapters/abbildungen.tex line 359: No italic correction (`\/') found.
+TrueType}-Schriften zur Verfügung, die auch in herkömmlichen  
+        ^
+Warning 18 in chapters/abbildungen.tex line 371: Use either `` or '' as an alternative to `"'.
+Eine Alternative dazu sind die "LM-Roman"%  
+                               ^
+Warning 18 in chapters/abbildungen.tex line 371: Use either `` or '' as an alternative to `"'.
+Eine Alternative dazu sind die "LM-Roman"%  
+                                        ^
+Warning 1 in chapters/abbildungen.tex line 375: Command terminated with space.
+\footnote{\zB unter \url{C:/Program Files (x86)/MikTeX 2.9/fonts/opentype/public/lm/}}  
+             ^
+Warning 24 in chapters/abbildungen.tex line 383: Delete this space to maintain correct pagereferences.
+\label{sec:GraphicOverlays}  
+^
+Warning 36 in chapters/abbildungen.tex line 386: You should put a space after parenthesis.
+\latex-eigenen (Vektor-)Elementen zu überlagern, \zB\ für Markierungen  
+                        ^
+Warning 24 in chapters/abbildungen.tex line 411: Delete this space to maintain correct pagereferences.
+\label{fig:overpic-example}  
+^
+Warning 11 in chapters/abbildungen.tex line 427: You should use \ldots to achieve an ellipsis.
+        ...  
+        ^^^
+Warning 26 in chapters/abbildungen.tex line 427: You ought to remove spaces in front of punctuation.
+        ...  
+       ^
+Warning 1 in chapters/abbildungen.tex line 434: Command terminated with space.
+in \latex sind ziemlich restriktiv, weshalb hier zusätzlich das \texttt{pict2e}-Paket  
+         ^
+Warning 11 in chapters/abbildungen.tex line 451: You should use \ldots to achieve an ellipsis.
+    ... Abb.~\ref{fig:Bearings} (c) ...   
+    ^^^
+Warning 26 in chapters/abbildungen.tex line 451: You ought to remove spaces in front of punctuation.
+    ... Abb.~\ref{fig:Bearings} (c) ...   
+   ^
+Warning 11 in chapters/abbildungen.tex line 451: You should use \ldots to achieve an ellipsis.
+    ... Abb.~\ref{fig:Bearings} (c) ...   
+                                    ^^^
+Warning 26 in chapters/abbildungen.tex line 451: You ought to remove spaces in front of punctuation.
+    ... Abb.~\ref{fig:Bearings} (c) ...   
+                                   ^
+Warning 24 in chapters/abbildungen.tex line 456: Delete this space to maintain correct pagereferences.
+\label{sec:QuellenangabenInCaptions}  
+^
+Warning 2 in chapters/abbildungen.tex line 466: Non-breaking space (`~') should have been used.
+Kap.\ \ref{cha:Literatur} (insbes.\ Abschnitt \ref{sec:KategorieOnline}).  
+                                             ^
+Warning 24 in chapters/abbildungen.tex line 489: Delete this space to maintain correct pagereferences.
+\label{fig:Bearings}  
+^
+Warning 24 in chapters/abbildungen.tex line 505: Delete this space to maintain correct pagereferences.
+\label{tab:processors}  
+^
+Warning 44 in chapters/abbildungen.tex line 509: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\begin{tabular}{|r||c|c|c|} \hline  
+                            ^^^^^^
+Warning 44 in chapters/abbildungen.tex line 509: User Regex: -2:Vertical rules in tables are ugly.
+\begin{tabular}{|r||c|c|c|} \hline  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Warning 44 in chapters/abbildungen.tex line 511: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline\hline  
+^^^^^^
+Warning 44 in chapters/abbildungen.tex line 511: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline\hline  
+      ^^^^^^
+Warning 44 in chapters/abbildungen.tex line 513: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 44 in chapters/abbildungen.tex line 515: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 44 in chapters/abbildungen.tex line 517: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 24 in chapters/abbildungen.tex line 525: Delete this space to maintain correct pagereferences.
+\label{prog:processors-source}  
+^
+Warning 24 in chapters/abbildungen.tex line 530: Delete this space to maintain correct pagereferences.
+        \label{tab:processors}  
+       ^
+Warning 44 in chapters/abbildungen.tex line 534: User Regex: -2:Vertical rules in tables are ugly.
+        \begin{tabular}{|r||c|c|c|}   
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Warning 44 in chapters/abbildungen.tex line 535: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+                \hline  
+                ^^^^^^
+Warning 44 in chapters/abbildungen.tex line 537: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+                \hline  
+                ^^^^^^
+Warning 44 in chapters/abbildungen.tex line 538: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+                \hline  
+                ^^^^^^
+Warning 44 in chapters/abbildungen.tex line 540: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+                \hline  
+                ^^^^^^
+Warning 44 in chapters/abbildungen.tex line 542: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+                \hline  
+                ^^^^^^
+Warning 44 in chapters/abbildungen.tex line 544: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+                \hline  
+                ^^^^^^
+Warning 18 in chapters/abbildungen.tex line 564: Use either `` or '' as an alternative to `"'.
+gesetzt (im "Flattersatz").}  
+            ^
+Warning 18 in chapters/abbildungen.tex line 564: Use either `` or '' as an alternative to `"'.
+gesetzt (im "Flattersatz").}  
+                        ^
+Warning 24 in chapters/abbildungen.tex line 565: Delete this space to maintain correct pagereferences.
+\label{tab:synthesis-techniques}  
+^
+Warning 44 in chapters/abbildungen.tex line 573: User Regex: -2:Vertical rules in tables are ugly.
+\begin{tabular}{|p{0.2\textwidth}|c|p{0.3\textwidth}|p{0.2\textwidth}|}  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Warning 44 in chapters/abbildungen.tex line 574: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 44 in chapters/abbildungen.tex line 579: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline\hline  
+^^^^^^
+Warning 44 in chapters/abbildungen.tex line 579: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline\hline  
+      ^^^^^^
+Warning 1 in chapters/abbildungen.tex line 580: Command terminated with space.
+   {\rr polygon shading} &  
+       ^
+Warning 1 in chapters/abbildungen.tex line 582: Command terminated with space.
+   {\rr flat-shaded polygons} &  
+       ^
+Warning 44 in chapters/abbildungen.tex line 584: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 1 in chapters/abbildungen.tex line 585: Command terminated with space.
+  {\rr flat shading with z-buffer} &  
+      ^
+Warning 1 in chapters/abbildungen.tex line 587: Command terminated with space.
+  {\rr depth values} &  
+      ^
+Warning 44 in chapters/abbildungen.tex line 589: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 1 in chapters/abbildungen.tex line 590: Command terminated with space.
+  {\rr goraud shading with z-buffer} &  
+      ^
+Warning 1 in chapters/abbildungen.tex line 592: Command terminated with space.
+  {\rr smooth shading, simple fog, point light sources} &  
+      ^
+Warning 1 in chapters/abbildungen.tex line 593: Command terminated with space.
+  {\rr SGI entry models} \\  
+      ^
+Warning 44 in chapters/abbildungen.tex line 594: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 1 in chapters/abbildungen.tex line 595: Command terminated with space.
+  {\rr phong shading with z-buffer} &  
+      ^
+Warning 1 in chapters/abbildungen.tex line 597: Command terminated with space.
+  {\rr highlights} &  
+      ^
+Warning 44 in chapters/abbildungen.tex line 599: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 1 in chapters/abbildungen.tex line 600: Command terminated with space.
+  {\rr texture mapping with z-buffer} &  
+      ^
+Warning 1 in chapters/abbildungen.tex line 602: Command terminated with space.
+  {\rr surface textures, simple shadows} &  
+      ^
+Warning 1 in chapters/abbildungen.tex line 603: Command terminated with space.
+  {\rr SGI high end, flight simulators} \\  
+      ^
+Warning 44 in chapters/abbildungen.tex line 604: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 24 in chapters/abbildungen.tex line 634: Delete this space to maintain correct pagereferences.
+\label{sec:programmtexte}  
+^
+Warning 1 in chapters/abbildungen.tex line 637: Command terminated with space.
+\va natürlich bei Arbeiten im Bereich der Informatik.  
+   ^
+Warning 24 in chapters/abbildungen.tex line 641: Delete this space to maintain correct pagereferences.
+\label{sec:FormatierungVonProgrammcode}  
+^
+Warning 24 in chapters/abbildungen.tex line 652: Delete this space to maintain correct pagereferences.
+\label{tab:CodeUmgebungen}  
+^
+Warning 44 in chapters/abbildungen.tex line 655: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 13 in chapters/abbildungen.tex line 659: Intersentence spacing (`\@') should perhaps be used.
+        CSS: & \verb!\begin{CssCode}! & \verb!...! \verb!\end{CssCode}! \\  
+           ^
+Warning 13 in chapters/abbildungen.tex line 660: Intersentence spacing (`\@') should perhaps be used.
+        HTML: & \verb!\begin{HtmlCode}! & \verb!...! \verb!\end{HtmlCode}! \\  
+            ^
+Warning 13 in chapters/abbildungen.tex line 664: Intersentence spacing (`\@') should perhaps be used.
+        Objective-C: & \verb!\begin{ObjCCode}! & \verb!...! \verb!\end{ObjCCode}! \\  
+                   ^
+Warning 13 in chapters/abbildungen.tex line 665: Intersentence spacing (`\@') should perhaps be used.
+        PHP: & \verb!\begin{PhpCode}! & \verb!...! \verb!\end{PhpCode}! \\  
+           ^
+Warning 13 in chapters/abbildungen.tex line 667: Intersentence spacing (`\@') should perhaps be used.
+        XML: & \verb!\begin{XmlCode}! & \verb!...! \verb!\end{XmlCode}! \\  
+           ^
+Warning 44 in chapters/abbildungen.tex line 669: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 11 in chapters/abbildungen.tex line 682: You should use \ldots to achieve an ellipsis.
+Der Quellcode innerhalb dieser Umgebungen wird in der jeweiligen Programmiersprache interpretiert, wobei Kommentare erhalten bleiben. Diese Umgebungen können sowohl alleinstehend (im Fließtext) oder innerhalb von Float-Umgebungen (insbes.\ \texttt{program}) verwendet werden. Im ersten Fall wird der Quelltext auch über Seitengrenzen umgebrochen. Mit \verb!/+! ... \verb!+/! ist eine Escape-Möglichkeit nach \latex\ vorgesehen, die \va\ zum Setzen von Labels für Verweise auf einzelne Programmzeilen nütz 
+                                                                                                                                                                                                                                                                                                                                                                            ^^^
+Warning 26 in chapters/abbildungen.tex line 682: You ought to remove spaces in front of punctuation.
+Der Quellcode innerhalb dieser Umgebungen wird in der jeweiligen Programmiersprache interpretiert, wobei Kommentare erhalten bleiben. Diese Umgebungen können sowohl alleinstehend (im Fließtext) oder innerhalb von Float-Umgebungen (insbes.\ \texttt{program}) verwendet werden. Im ersten Fall wird der Quelltext auch über Seitengrenzen umgebrochen. Mit \verb!/+! ... \verb!+/! ist eine Escape-Möglichkeit nach \latex\ vorgesehen, die \va\ zum Setzen von Labels für Verweise auf einzelne Programmzeilen nütz 
+                                                                                                                                                                                                                                                                                                                                                                           ^
+Warning 2 in chapters/abbildungen.tex line 689: Non-breaking space (`~') should have been used.
+Ein Beispiel mit Java ist in Prog.~\ref{prog:CodeExample} gezeigt, wobei der oben angeführte Label in Zeile \ref{ExampleCodeLabel} steht.  
+                                                                                                            ^
+Warning 2 in chapters/abbildungen.tex line 691: Non-breaking space (`~') should have been used.
+(wie etwa in Zeile \ref{MathInCode} von Prog.~\ref{prog:CodeExample}) stehen kann.  
+                  ^
+Warning 9 in chapters/abbildungen.tex line 736: `]' expected, found `)'.
+\item[a)] im laufenden Text für kurze Programmstücke,  
+       ^
+Warning 9 in chapters/abbildungen.tex line 736: `)' expected, found `]'.
+\item[a)] im laufenden Text für kurze Programmstücke,  
+        ^
+Warning 9 in chapters/abbildungen.tex line 737: `]' expected, found `)'.
+\item[b)] als Float-Element (\texttt{program}) für mittlere Programmtexte bis max.\ eine Seite oder  
+       ^
+Warning 10 in chapters/abbildungen.tex line 737: Solo `]' found.
+\item[b)] als Float-Element (\texttt{program}) für mittlere Programmtexte bis max.\ eine Seite oder  
+        ^
+Warning 9 in chapters/abbildungen.tex line 738: `]' expected, found `)'.
+\item[c)] im Anhang (für lange Programmtexte).  
+       ^
+Warning 10 in chapters/abbildungen.tex line 738: Solo `]' found.
+\item[c)] im Anhang (für lange Programmtexte).  
+        ^
+Warning 36 in chapters/abbildungen.tex line 750: You should put a space in front of parenthesis.
+static String extractEmail(String line) {  
+                          ^
+Warning 36 in chapters/abbildungen.tex line 751: You should put a space in front of parenthesis.
+    line = line.trim(); // find the first blank  
+                    ^
+Warning 36 in chapters/abbildungen.tex line 752: You should put a space in front of parenthesis.
+    int i = line.indexOf(' ');   
+                        ^
+Warning 36 in chapters/abbildungen.tex line 754: You should put a space in front of parenthesis.
+        return line.substring(i).trim();  
+                             ^
+Warning 36 in chapters/abbildungen.tex line 754: You should put a space in front of parenthesis.
+        return line.substring(i).trim();  
+                                     ^
+Warning 18 in chapters/abbildungen.tex line 808: Use either `` or '' as an alternative to `"'.
+"... im  folgenden Programmstück ..." zu vermeiden und entsprechende Verweise  
+^
+Warning 11 in chapters/abbildungen.tex line 808: You should use \ldots to achieve an ellipsis.
+"... im  folgenden Programmstück ..." zu vermeiden und entsprechende Verweise  
+ ^^^
+Warning 12 in chapters/abbildungen.tex line 808: Interword spacing (`\ ') should perhaps be used.
+"... im  folgenden Programmstück ..." zu vermeiden und entsprechende Verweise  
+  ^
+Warning 11 in chapters/abbildungen.tex line 808: You should use \ldots to achieve an ellipsis.
+"... im  folgenden Programmstück ..." zu vermeiden und entsprechende Verweise  
+                                  ^^^
+Warning 26 in chapters/abbildungen.tex line 808: You ought to remove spaces in front of punctuation.
+"... im  folgenden Programmstück ..." zu vermeiden und entsprechende Verweise  
+                                 ^
+Warning 18 in chapters/abbildungen.tex line 808: Use either `` or '' as an alternative to `"'.
+"... im  folgenden Programmstück ..." zu vermeiden und entsprechende Verweise  
+                                     ^
+Warning 2 in chapters/abbildungen.tex line 809: Non-breaking space (`~') should have been used.
+einzusetzen. Beispiele sind Programme \ref{prog:processors-source} und \ref{prog:CodeExample}.  
+                                     ^
+Warning 2 in chapters/abbildungen.tex line 809: Non-breaking space (`~') should have been used.
+einzusetzen. Beispiele sind Programme \ref{prog:processors-source} und \ref{prog:CodeExample}.  
+                                                                      ^
+Warning 24 in chapters/abbildungen.tex line 814: Delete this space to maintain correct pagereferences.
+\label{prog:CodeExample}  
+^
+Warning 18 in chapters/abbildungen.tex line 822: Use either `` or '' as an alternative to `"'.
+  String title = ""; // just to test printing of double quotes  
+                 ^
+Warning 18 in chapters/abbildungen.tex line 822: Use either `` or '' as an alternative to `"'.
+  String title = ""; // just to test printing of double quotes  
+                  ^
+Warning 13 in chapters/abbildungen.tex line 825: Intersentence spacing (`\@') should perhaps be used.
+                return DOES_8G; // this plugin accepts 8-bit grayscale images /+\label{pr:IjSamplePlugin10}+/  
+                              ^
+Warning 36 in chapters/abbildungen.tex line 829: You should put a space in front of parenthesis.
+                int w = ip.getWidth();  /+\label{ExampleCodeLabel}+/  
+                                   ^
+Warning 36 in chapters/abbildungen.tex line 830: You should put a space in front of parenthesis.
+                int h = ip.getHeight();   
+                                    ^
+Warning 36 in chapters/abbildungen.tex line 835: You should put a space in front of parenthesis.
+                                int p = ip.getPixel(u, v);   
+                                                   ^
+Warning 36 in chapters/abbildungen.tex line 836: You should put a space in front of parenthesis.
+                                ip.putPixel(u, v, 255-p); // invert: /+$I'(u,v) \leftarrow 255 - I(u,v)$\label{MathInCode}+/  
+                                           ^
+Warning 2 in chapters/abbildungen.tex line 855: Non-breaking space (`~') should have been used.
+\ref{app:latex} (Seite \pageref{app:latex}).%  
+^
+Warning 2 in chapters/abbildungen.tex line 855: Non-breaking space (`~') should have been used.
+\ref{app:latex} (Seite \pageref{app:latex}).%  
+                      ^
+Warning 24 in chapters/mathematik.tex line 2: Delete this space to maintain correct pagereferences.
+\label{cha:Mathematik}  
+^
+Warning 1 in chapters/mathematik.tex line 11: Command terminated with space.
+Hier nur einige Beispiele und spezielle Themen, vieles weitere dazu findet sich \zB in  
+                                                                                   ^
+Warning 2 in chapters/mathematik.tex line 12: Non-breaking space (`~') should have been used.
+\cite[Kap.\ 7]{Kopka2003} und~\cite{Voss2014}.  
+^
+Warning 18 in chapters/mathematik.tex line 34: Use either `` or '' as an alternative to `"'.
+Zeichen vergessen, wie etwa in "X-Achse" anstelle von "$X$-Achse" (\verb!$X$-Achse!).  
+                               ^
+Warning 18 in chapters/mathematik.tex line 34: Use either `` or '' as an alternative to `"'.
+Zeichen vergessen, wie etwa in "X-Achse" anstelle von "$X$-Achse" (\verb!$X$-Achse!).  
+                                       ^
+Warning 18 in chapters/mathematik.tex line 34: Use either `` or '' as an alternative to `"'.
+Zeichen vergessen, wie etwa in "X-Achse" anstelle von "$X$-Achse" (\verb!$X$-Achse!).  
+                                                      ^
+Warning 18 in chapters/mathematik.tex line 34: Use either `` or '' as an alternative to `"'.
+Zeichen vergessen, wie etwa in "X-Achse" anstelle von "$X$-Achse" (\verb!$X$-Achse!).  
+                                                                ^
+Warning 1 in chapters/mathematik.tex line 38: Command terminated with space.
+vorprogrammiert. In der Regel ermöglicht \latex nur am "=" einen Zeilenumbruch,  
+                                                ^
+Warning 18 in chapters/mathematik.tex line 38: Use either `` or '' as an alternative to `"'.
+vorprogrammiert. In der Regel ermöglicht \latex nur am "=" einen Zeilenumbruch,  
+                                                        ^
+Warning 18 in chapters/mathematik.tex line 38: Use either `` or '' as an alternative to `"'.
+vorprogrammiert. In der Regel ermöglicht \latex nur am "=" einen Zeilenumbruch,  
+                                                          ^
+Warning 9 in chapters/mathematik.tex line 43: `]' expected, found `)'.
+\item[a)] Einen einfachen Zeilenvektor definiert man beispielsweise in der Form   
+       ^
+Warning 10 in chapters/mathematik.tex line 43: Solo `]' found.
+\item[a)] Einen einfachen Zeilenvektor definiert man beispielsweise in der Form   
+        ^
+Warning 9 in chapters/mathematik.tex line 45: `]' expected, found `)'.
+\item[b)] Einen einfachen Zeilenvektor definiert man beispielsweise in der Form   
+       ^
+Warning 10 in chapters/mathematik.tex line 45: Solo `]' found.
+\item[b)] Einen einfachen Zeilenvektor definiert man beispielsweise in der Form   
+        ^
+Warning 10 in chapters/mathematik.tex line 48: Solo `)' found.
+Die Zeile in a) sollte über den Seitenrand hinauslaufen, b) hingegen enthält  
+              ^
+Warning 10 in chapters/mathematik.tex line 48: Solo `)' found.
+Die Zeile in a) sollte über den Seitenrand hinauslaufen, b) hingegen enthält  
+                                                           ^
+Warning 45 in chapters/mathematik.tex line 56: Use \[ ... \] instead of $$ ... $$.
+Nummerierung. So ist \zB\ $$y = 4 x^2$$ das Ergebnis von \verb!$$y = 4 x^2$$!.  
+                          ^^^^^^^^^^^^^
+Warning 2 in chapters/mathematik.tex line 94: Non-breaking space (`~') should have been used.
+Für Interessierte findet sich mehr zum Thema Mathematik und Prosa in \cite{Mermin1989} und \cite{Higham1998}.  
+                                                                     ^
+Warning 2 in chapters/mathematik.tex line 94: Non-breaking space (`~') should have been used.
+Für Interessierte findet sich mehr zum Thema Mathematik und Prosa in \cite{Mermin1989} und \cite{Higham1998}.  
+                                                                                           ^
+Warning 2 in chapters/mathematik.tex line 102: Non-breaking space (`~') should have been used.
+\cite{Mittelbach2018} zurückzugreifen.  
+^
+Warning 2 in chapters/mathematik.tex line 182: Non-breaking space (`~') should have been used.
+Ein nützliches Detail darin ist das \tex-Makro \verb!\phantom{..}! (in Zeile \ref{lin:phantom}), das sein Argument unsichtbar einfügt und hier als Platzhalter für das darüberliegende Minuszeichen verwendet wird. Alternativ zu \texttt{pmatrix} kann mit der \texttt{bmatrix}-Umgebung Matrizen  
+                                                                             ^
+Warning 2 in chapters/mathematik.tex line 184: Non-breaking space (`~') should have been used.
+Zahlreiche weitere mathematische Konstrukte des \texttt{amsmath}-Pakets sind in \cite{Mittelbach2018} beschrieben.  
+                                                                               ^
+Warning 24 in chapters/mathematik.tex line 209: Delete this space to maintain correct pagereferences.
+\label{sec:VerweiseAufGleichungen}  
+^
+Warning 18 in chapters/mathematik.tex line 216: Use either `` or '' as an alternative to `"'.
+"\ldots\ wie aus (\ref{eq:f1}) abgeleitet werden kann \ldots"  
+^
+Warning 18 in chapters/mathematik.tex line 216: Use either `` or '' as an alternative to `"'.
+"\ldots\ wie aus (\ref{eq:f1}) abgeleitet werden kann \ldots"  
+                                                            ^
+Warning 8 in chapters/mathematik.tex line 218: Wrong length of dash may have been used.
+Um Missverständnisse zu vermeiden, sollte aber -- \va\ in Texten mit  
+                                                ^^
+Warning 8 in chapters/mathematik.tex line 219: Wrong length of dash may have been used.
+nur wenigen mathematischen Elementen -- "Gleichung \ref{eq:f1}", "Gl.~\ref{eq:f1}"   
+                                     ^^
+Warning 18 in chapters/mathematik.tex line 219: Use either `` or '' as an alternative to `"'.
+nur wenigen mathematischen Elementen -- "Gleichung \ref{eq:f1}", "Gl.~\ref{eq:f1}"   
+                                        ^
+Warning 2 in chapters/mathematik.tex line 219: Non-breaking space (`~') should have been used.
+nur wenigen mathematischen Elementen -- "Gleichung \ref{eq:f1}", "Gl.~\ref{eq:f1}"   
+                                                  ^
+Warning 18 in chapters/mathematik.tex line 219: Use either `` or '' as an alternative to `"'.
+nur wenigen mathematischen Elementen -- "Gleichung \ref{eq:f1}", "Gl.~\ref{eq:f1}"   
+                                                              ^
+Warning 18 in chapters/mathematik.tex line 219: Use either `` or '' as an alternative to `"'.
+nur wenigen mathematischen Elementen -- "Gleichung \ref{eq:f1}", "Gl.~\ref{eq:f1}"   
+                                                                 ^
+Warning 18 in chapters/mathematik.tex line 219: Use either `` or '' as an alternative to `"'.
+nur wenigen mathematischen Elementen -- "Gleichung \ref{eq:f1}", "Gl.~\ref{eq:f1}"   
+                                                                                 ^
+Warning 18 in chapters/mathematik.tex line 220: Use either `` or '' as an alternative to `"'.
+oder "Gl.~(\ref{eq:f1})" geschrieben werden (natürlich konsistent).   
+     ^
+Warning 18 in chapters/mathematik.tex line 220: Use either `` or '' as an alternative to `"'.
+oder "Gl.~(\ref{eq:f1})" geschrieben werden (natürlich konsistent).   
+                       ^
+Warning 1 in chapters/mathematik.tex line 241: Command terminated with space.
+mathematischen Zeichensatz von \latex nicht enthalten, \zB die  
+                                     ^
+Warning 1 in chapters/mathematik.tex line 241: Command terminated with space.
+mathematischen Zeichensatz von \latex nicht enthalten, \zB die  
+                                                          ^
+Warning 13 in chapters/mathematik.tex line 246: Intersentence spacing (`\@') should perhaps be used.
+mithilfe der \emph{AMS Blackboard Fonts} definiert, \zB:  
+                                                       ^
+Warning 26 in chapters/mathematik.tex line 248: You ought to remove spaces in front of punctuation.
+$x \in \R$ , $k \in \N_0$, $z = (a + \mathrm{i} \cdot b) \in \Cpx$.  
+          ^
+Warning 8 in chapters/mathematik.tex line 254: Wrong length of dash may have been used.
+In \latex\ sind Dutzende von mathematischen Operatoren für spezielle Anwendungen definiert. Am häufigsten werden natürlich die arithmetischen Operatoren $+$, $-$, $\cdot$ und $/$ benötigt. Ein dabei oft beobachteter Fehler (der wohl aus der Programmierpraxis resultiert) ist die Verwendung von $*$ für die einfache Multiplikation -- richtig ist $\cdot$ (\verb!\cdot!).%  
+                                                                                                                                                                                                                                                                                                                                               ^^
+Warning 18 in chapters/mathematik.tex line 257: Use either `` or '' as an alternative to `"'.
+Für Angaben wie \zB\ "ein Feld mit $25 \times 70$ Metern" (aber auch fast \emph{nur} dafür) wird sinnvollerweise der $\times$ (\verb!\times!) Operator und \emph{nicht} einfach das Textzeichen~"x" verwendet!  
+                      ^
+Warning 18 in chapters/mathematik.tex line 257: Use either `` or '' as an alternative to `"'.
+Für Angaben wie \zB\ "ein Feld mit $25 \times 70$ Metern" (aber auch fast \emph{nur} dafür) wird sinnvollerweise der $\times$ (\verb!\times!) Operator und \emph{nicht} einfach das Textzeichen~"x" verwendet!  
+                                                         ^
+Warning 18 in chapters/mathematik.tex line 257: Use either `` or '' as an alternative to `"'.
+Für Angaben wie \zB\ "ein Feld mit $25 \times 70$ Metern" (aber auch fast \emph{nur} dafür) wird sinnvollerweise der $\times$ (\verb!\times!) Operator und \emph{nicht} einfach das Textzeichen~"x" verwendet!  
+                                                                                                                                                                                                  ^
+Warning 18 in chapters/mathematik.tex line 257: Use either `` or '' as an alternative to `"'.
+Für Angaben wie \zB\ "ein Feld mit $25 \times 70$ Metern" (aber auch fast \emph{nur} dafür) wird sinnvollerweise der $\times$ (\verb!\times!) Operator und \emph{nicht} einfach das Textzeichen~"x" verwendet!  
+                                                                                                                                                                                                    ^
+Warning 1 in chapters/mathematik.tex line 263: Command terminated with space.
+zu verwenden, \zB  
+                 ^
+Warning 45 in chapters/mathematik.tex line 265: Use \[ ... \] instead of $$ ... $$.
+$$Scalefactor\leftarrow Scalefactor^2 \cdot 1.5 \; ,$$  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Warning 1 in chapters/mathematik.tex line 271: Command terminated with space.
+Dabei interpretiert \latex allerdings die Zeichenkette "Scalefactor" als 11 einzelne,  
+                          ^
+Warning 18 in chapters/mathematik.tex line 271: Use either `` or '' as an alternative to `"'.
+Dabei interpretiert \latex allerdings die Zeichenkette "Scalefactor" als 11 einzelne,  
+                                                       ^
+Warning 18 in chapters/mathematik.tex line 271: Use either `` or '' as an alternative to `"'.
+Dabei interpretiert \latex allerdings die Zeichenkette "Scalefactor" als 11 einzelne,  
+                                                                   ^
+Warning 1 in chapters/mathematik.tex line 293: Command terminated with space.
+\emph{roman} als Schrifttyp verwendet, wie \zB in  
+                                              ^
+Warning 13 in chapters/mathematik.tex line 320: Intersentence spacing (`\@') should perhaps be used.
+(keine Italics) verwendet, \zB:  
+                              ^
+Warning 18 in chapters/mathematik.tex line 336: Use either `` or '' as an alternative to `"'.
+\latex\ setzt im Mathematik-Modus (also innerhalb von \verb!$$! oder in Gleichungen) nach dem angloamerikanischen Stil in Dezimalzahlen grundsätzlich den \emph{Punkt} (\verb!.!) als Trennsymbol voraus. So wird etwa mit \verb!$3.141$! normalerweise die Ausgabe "3.141" erzeugt. Um das in Europa übliche Komma in Dezimalzahlen zu verwenden, genügt es \emph{nicht}, einfach \verb!.! durch \verb!,! zu ersetzen. Das Komma wird in diesem Fall  
+                                                                                                                                                                                                                                                                     ^
+Warning 18 in chapters/mathematik.tex line 336: Use either `` or '' as an alternative to `"'.
+\latex\ setzt im Mathematik-Modus (also innerhalb von \verb!$$! oder in Gleichungen) nach dem angloamerikanischen Stil in Dezimalzahlen grundsätzlich den \emph{Punkt} (\verb!.!) als Trennsymbol voraus. So wird etwa mit \verb!$3.141$! normalerweise die Ausgabe "3.141" erzeugt. Um das in Europa übliche Komma in Dezimalzahlen zu verwenden, genügt es \emph{nicht}, einfach \verb!.! durch \verb!,! zu ersetzen. Das Komma wird in diesem Fall  
+                                                                                                                                                                                                                                                                           ^
+Warning 6 in chapters/mathematik.tex line 353: No italic correction (`\/') found.
+Mathematica} auf relativ einfache Weise \latex-An\-wei\-sun\-gen  
+           ^
+Warning 8 in chapters/mathematik.tex line 366: Wrong length of dash may have been used.
+Ein wesentlicher Aspekt der algorithmischen Beschreibung -- die idealerweise der Implementierung   
+                                                         ^^
+Warning 8 in chapters/mathematik.tex line 367: Wrong length of dash may have been used.
+zumindest strukturell möglichst ähnlich sein sollte -- ist die weitgehende  
+                                                      ^^
+Warning 1 in chapters/mathematik.tex line 384: Command terminated with space.
+\usw  
+    ^
+Warning 18 in chapters/mathematik.tex line 387: Use either `` or '' as an alternative to `"'.
+(\zB\ ist ein "\texttt{;}" am Ende einer Anweisung unnötig).  
+              ^
+Warning 18 in chapters/mathematik.tex line 387: Use either `` or '' as an alternative to `"'.
+(\zB\ ist ein "\texttt{;}" am Ende einer Anweisung unnötig).  
+                         ^
+Warning 1 in chapters/mathematik.tex line 396: Command terminated with space.
+Pseudo\-code ist in \latex selbst keine spezielle Unterstützung vorgesehen.  
+                          ^
+Warning 1 in chapters/mathematik.tex line 403: Command terminated with space.
+durch verbesserte Einrückung, Farben \etc  Weitere Details finden sich in   
+                                          ^
+Warning 2 in chapters/mathematik.tex line 408: Non-breaking space (`~') should have been used.
+\cite{BurgerBurge2015}.  
+^
+Warning 2 in chapters/mathematik.tex line 414: Non-breaking space (`~') should have been used.
+gesetzten Algorithmus zur bikubischen Interpolation in 2D. Die in den Zeilen \ref{alg:wcub1} und  
+                                                                            ^
+Warning 2 in chapters/mathematik.tex line 415: Non-breaking space (`~') should have been used.
+\ref{alg:wcub2} verwendete Funktion $\Call{Cubic1D}{x}$ berechnet die Gewichtung  
+^
+Warning 24 in chapters/mathematik.tex line 417: Delete this space to maintain correct pagereferences.
+\label{alg:Example}  
+^
+Warning 1 in chapters/mathematik.tex line 425: Command terminated with space.
+        \State $\mathit{val} \gets 0$  
+              ^
+Warning 1 in chapters/mathematik.tex line 428: Command terminated with space.
+                \State $v \gets \lfloor y \rfloor - 1 + j$  
+                      ^
+Warning 1 in chapters/mathematik.tex line 429: Command terminated with space.
+                \State $p \gets 0$  
+                      ^
+Warning 1 in chapters/mathematik.tex line 431: Command terminated with space.
+                        \State $u \gets \lfloor x \rfloor - 1 + i$  
+                              ^
+Warning 1 in chapters/mathematik.tex line 432: Command terminated with space.
+                        \State $p \gets p + I(u,v) \cdot \Call{Cubic1D}{x - u}$ % w_{\mathrm{cub}}(x - u )$  
+                              ^
+Warning 24 in chapters/mathematik.tex line 433: Delete this space to maintain correct pagereferences.
+                                        \label{alg:wcub1}  
+                                       ^
+Warning 1 in chapters/mathematik.tex line 434: Command terminated with space.
+                \EndFor           
+                       ^
+Warning 1 in chapters/mathematik.tex line 440: Command terminated with space.
+                \State $\mathit{val} \gets \mathit{val} + p \cdot \Call{Cubic1D}{y - v}$  
+                      ^
+Warning 24 in chapters/mathematik.tex line 441: Delete this space to maintain correct pagereferences.
+                                \label{alg:wcub2}  
+                               ^
+Warning 1 in chapters/mathematik.tex line 442: Command terminated with space.
+        \EndFor  
+               ^
+Warning 1 in chapters/mathematik.tex line 443: Command terminated with space.
+        \State\Return $\mathit{val}$  
+                     ^
+Warning 1 in chapters/mathematik.tex line 444: Command terminated with space.
+\EndProcedure  
+             ^
+Warning 1 in chapters/mathematik.tex line 451: Command terminated with space.
+        \State $z \gets 0$  
+              ^
+Warning 1 in chapters/mathematik.tex line 453: Command terminated with space.
+                        \State $z \gets |x|^3 - 2 \cdot |x|^2 + 1$  
+                              ^
+Warning 1 in chapters/mathematik.tex line 455: Command terminated with space.
+                        \State $z \gets -|x|^3 + 5 \cdot |x|^2 - 8 \cdot |x| + 4$  
+                              ^
+Warning 1 in chapters/mathematik.tex line 456: Command terminated with space.
+                \EndIf  
+                      ^
+Warning 1 in chapters/mathematik.tex line 458: Command terminated with space.
+\EndFunction  
+            ^
+Warning 2 in chapters/mathematik.tex line 466: Non-breaking space (`~') should have been used.
+\caption{Quellcode zu Algorithmus \ref{alg:Example}.  
+                                 ^
+Warning 24 in chapters/mathematik.tex line 469: Delete this space to maintain correct pagereferences.
+\label{prog:AlgExample}  
+^
+Warning 11 in chapters/mathematik.tex line 472: You should use \ldots to achieve an ellipsis.
+\caption{Beispiel für einen mit \texttt{algorithmicx} ... }  
+                                                       ^^^
+Warning 26 in chapters/mathematik.tex line 472: You ought to remove spaces in front of punctuation.
+\caption{Beispiel für einen mit \texttt{algorithmicx} ... }  
+                                                      ^
+Warning 24 in chapters/mathematik.tex line 473: Delete this space to maintain correct pagereferences.
+\label{alg:Example}  
+^
+Warning 1 in chapters/mathematik.tex line 483: Command terminated with space.
+        \State $\mathit{val} \gets 0$  
+              ^
+Warning 1 in chapters/mathematik.tex line 485: Command terminated with space.
+                \State $v \gets \lfloor y \rfloor - 1 + j$  
+                      ^
+Warning 1 in chapters/mathematik.tex line 486: Command terminated with space.
+                \State $p \gets 0$  
+                      ^
+Warning 1 in chapters/mathematik.tex line 488: Command terminated with space.
+                        \State $u \gets \lfloor x \rfloor - 1 + i$  
+                              ^
+Warning 1 in chapters/mathematik.tex line 489: Command terminated with space.
+                        \State $p \gets p + I(u,v) \cdot \Call{Cubic1D}{x - u}$  
+                              ^
+Warning 24 in chapters/mathematik.tex line 490: Delete this space to maintain correct pagereferences.
+                        \label{alg:wcub1}  
+                       ^
+Warning 1 in chapters/mathematik.tex line 491: Command terminated with space.
+                \EndFor  
+                       ^
+Warning 11 in chapters/mathematik.tex line 493: You should use \ldots to achieve an ellipsis.
+                \StateNN[2]{Sometimes it is useful to insert a longer, ...}  
+                                                                       ^^^
+Warning 26 in chapters/mathematik.tex line 493: You ought to remove spaces in front of punctuation.
+                \StateNN[2]{Sometimes it is useful to insert a longer, ...}  
+                                                                      ^
+Warning 1 in chapters/mathematik.tex line 495: Command terminated with space.
+                \State $\mathit{val} \gets \mathit{val} + p \cdot \Call{Cubic1D}{y - v}$  
+                      ^
+Warning 24 in chapters/mathematik.tex line 496: Delete this space to maintain correct pagereferences.
+                \label{alg:wcub2}  
+               ^
+Warning 1 in chapters/mathematik.tex line 497: Command terminated with space.
+        \EndFor  
+               ^
+Warning 1 in chapters/mathematik.tex line 498: Command terminated with space.
+        \State\Return $\mathit{val}$  
+                     ^
+Warning 1 in chapters/mathematik.tex line 499: Command terminated with space.
+\EndProcedure  
+             ^
+Warning 1 in chapters/mathematik.tex line 504: Command terminated with space.
+        \State $z \gets 0$  
+              ^
+Warning 1 in chapters/mathematik.tex line 506: Command terminated with space.
+                        \State $z \gets |x|^3 - 2 \cdot |x|^2 + 1$  
+                              ^
+Warning 1 in chapters/mathematik.tex line 508: Command terminated with space.
+                        \State $z \gets -|x|^3 + 5 \cdot |x|^2 - 8 \cdot |x| + 4$  
+                              ^
+Warning 1 in chapters/mathematik.tex line 509: Command terminated with space.
+                \EndIf  
+                      ^
+Warning 1 in chapters/mathematik.tex line 511: Command terminated with space.
+\EndFunction  
+            ^
+Warning 24 in chapters/literatur.tex line 2: Delete this space to maintain correct pagereferences.
+\label{cha:Literatur}  
+^
+Warning 2 in chapters/literatur.tex line 18: Non-breaking space (`~') should have been used.
+wissenschaftlicher Arbeiten im Allgemeinen (\sa\ Abschnitt \ref{sec:Plagiarismus}).  
+                                                          ^
+Warning 2 in chapters/literatur.tex line 24: Non-breaking space (`~') should have been used.
+Technisch basiert dieser Teil auf \texttt{BibTeX} \cite{Patashnik1988}  
+                                                 ^
+Warning 2 in chapters/literatur.tex line 28: Non-breaking space (`~') should have been used.
+in Kombination mit dem Paket \texttt{biblatex} \cite{Lehman2018}.  
+                                              ^
+Warning 1 in chapters/literatur.tex line 44: Command terminated with space.
+Um einen Eintrag im Quellenverzeichnis zu erstellen und im Text darauf zu verweisen, stellt \latex ein zentrales Kommando zur Verfügung.  
+                                                                                                  ^
+Warning 1 in chapters/literatur.tex line 46: Command terminated with space.
+\subsection{Das \texttt{\textbackslash cite} Makro}  
+                                      ^
+Warning 1 in chapters/literatur.tex line 59: Command terminated with space.
+werden, wie \zB Kapitel- oder Seitenangaben bei Büchern.  
+               ^
+Warning 2 in chapters/literatur.tex line 65: Non-breaking space (`~') should have been used.
+Mehr dazu findet sich in \cite{Kopka2003}. %\newline  
+                        ^
+Warning 2 in chapters/literatur.tex line 67: Non-breaking space (`~') should have been used.
+Mehr dazu findet sich in \cite{Kopka2003}.  
+                        ^
+Warning 2 in chapters/literatur.tex line 71: Non-breaking space (`~') should have been used.
+Mehr zu diesem Thema in \cite[Kap.~3]{Kopka2003}.  
+                       ^
+Warning 2 in chapters/literatur.tex line 73: Non-breaking space (`~') should have been used.
+Mehr zu diesem Thema in \cite[Kap.~3]{Kopka2003}.  
+                       ^
+Warning 2 in chapters/literatur.tex line 77: Non-breaking space (`~') should have been used.
+Die Angaben in \cite[S.\ 274--277]{BurgeBurger1999} erscheinen überholt.  
+              ^
+Warning 2 in chapters/literatur.tex line 79: Non-breaking space (`~') should have been used.
+Die Angaben in \cite[S.\ 274--277]{BurgeBurger1999} erscheinen überholt.  
+              ^
+Warning 2 in chapters/literatur.tex line 83: Non-breaking space (`~') should have been used.
+Interessant sind auch \cite{BurgeBurger1999,Patashnik1988,Duden1997}.  
+                     ^
+Warning 2 in chapters/literatur.tex line 85: Non-breaking space (`~') should have been used.
+Interessant sind auch \cite{BurgeBurger1999,Patashnik1988,Duden1997}.  
+                     ^
+Warning 1 in chapters/literatur.tex line 88: Command terminated with space.
+\texttt{\textbackslash cite}-Befehl angeführt.   
+                      ^
+Warning 1 in chapters/literatur.tex line 91: Command terminated with space.
+Mehrere aufeinanderfolgende \texttt{\textbackslash cite}-Befehle sollte man   
+                                                  ^
+Warning 1 in chapters/literatur.tex line 100: Command terminated with space.
+\footnote{\texttt{\textbackslash mcite} funktioniert ähnlich dem \texttt{{\bs}cites}-Kommando  
+                                ^
+Warning 8 in chapters/literatur.tex line 125: Wrong length of dash may have been used.
+Zur besseren Lesbarkeit wird hier -- anders als beim gewöhnlichen \texttt{\textbackslash cite} --  
+                                  ^^
+Warning 1 in chapters/literatur.tex line 125: Command terminated with space.
+Zur besseren Lesbarkeit wird hier -- anders als beim gewöhnlichen \texttt{\textbackslash cite} --  
+                                                                                         ^
+Warning 8 in chapters/literatur.tex line 125: Wrong length of dash may have been used.
+Zur besseren Lesbarkeit wird hier -- anders als beim gewöhnlichen \texttt{\textbackslash cite} --  
+                                                                                                ^^
+Warning 1 in chapters/literatur.tex line 127: Command terminated with space.
+Bei der Verwendung von \texttt{\textbackslash mcite} muss man sich allerdings (sofern gewünscht) selbst   
+                                             ^
+Warning 1 in chapters/literatur.tex line 132: Command terminated with space.
+\subsection{Unterdrückung der Rückverweise mit \texttt{\textbackslash citenobr}}  
+                                                                       ^
+Warning 1 in chapters/literatur.tex line 138: Command terminated with space.
+\texttt{\textbackslash citenobr}%  
+                      ^
+Warning 1 in chapters/literatur.tex line 151: Command terminated with space.
+Quellenverweise sollten innerhalb oder am Ende eines Satzes (\dah vor  
+                                                                 ^
+Warning 2 in chapters/literatur.tex line 156: Non-breaking space (`~') should have been used.
+ \textbf{Falsch:}  & \ldots hier ist der Satz zu Ende. \cite{Oetiker2018} Und jetzt geht es weiter \ldots \\  
+                                                      ^
+Warning 2 in chapters/literatur.tex line 157: Non-breaking space (`~') should have been used.
+ \textbf{Richtig:} & \ldots hier ist der Satz zu Ende \cite{Oetiker2018}. Und jetzt geht es weiter \ldots  
+                                                     ^
+Warning 2 in chapters/literatur.tex line 168: Non-breaking space (`~') should have been used.
+\textbf{Richtig:} & \ldots hier folgt die Quellenangabe \cite{Oetiker2018} und es geht weiter \ldots  
+                                                       ^
+Warning 2 in chapters/literatur.tex line 176: Non-breaking space (`~') should have been used.
+aus \cite{Oetiker2018}:  
+   ^
+Warning 38 in chapters/literatur.tex line 182: You should not use punctuation in front of quotes.
+it is well designed.'' But as a document has to be read and not  
+                   ^
+Warning 8 in chapters/literatur.tex line 201: Wrong length of dash may have been used.
+\emph{oder} kursiv gesetzt werden -- aber nicht beides!  
+                                  ^^
+Warning 8 in chapters/literatur.tex line 229: Wrong length of dash may have been used.
+möchte (oder muss), die man zwar nicht zur Hand -- und damit auch nicht selbst gelesen --  
+                                                 ^^
+Warning 8 in chapters/literatur.tex line 229: Wrong length of dash may have been used.
+möchte (oder muss), die man zwar nicht zur Hand -- und damit auch nicht selbst gelesen --  
+                                                                                        ^^
+Warning 2 in chapters/literatur.tex line 253: Non-breaking space (`~') should have been used.
+S.~314 (1632). Zitiert nach \cite[S.~59]{Hemleben1969}.} % Alle Seitennummern sind frei erfunden!  
+                           ^
+Warning 1 in chapters/literatur.tex line 259: Command terminated with space.
+Für die Erstellung des Quellenverzeichnisses gibt es in \latex grundsätzlich   
+                                                               ^
+Warning 2 in chapters/literatur.tex line 261: Non-breaking space (`~') should have been used.
+Die gängigste Methode ist die Verwendung von \texttt{BibTeX} \cite{Patashnik1988} \bzw   
+                                                             ^
+Warning 1 in chapters/literatur.tex line 261: Command terminated with space.
+Die gängigste Methode ist die Verwendung von \texttt{BibTeX} \cite{Patashnik1988} \bzw   
+                                                                                       ^
+Warning 24 in chapters/literatur.tex line 267: Delete this space to maintain correct pagereferences.
+\label{sec:bibtex}  
+^
+Warning 18 in chapters/literatur.tex line 269: Use either `` or '' as an alternative to `"'.
+BibTeX ist ein eigenständiges Programm, das aus einer "Literaturdatenbank" (eine oder mehrere  
+                                                       ^
+Warning 18 in chapters/literatur.tex line 269: Use either `` or '' as an alternative to `"'.
+BibTeX ist ein eigenständiges Programm, das aus einer "Literaturdatenbank" (eine oder mehrere  
+                                                                          ^
+Warning 1 in chapters/literatur.tex line 270: Command terminated with space.
+Textdateien mit vorgegebener Struktur) ein für \latex geeignetes Quellenverzeichnis  
+                                                      ^
+Warning 1 in chapters/literatur.tex line 271: Command terminated with space.
+erzeugt. Literatur zur Verwendung von BibTeX findet sich online, \zB \cite{Feder2006, Patashnik1988}.  
+                                                                    ^
+Warning 2 in chapters/literatur.tex line 271: Non-breaking space (`~') should have been used.
+erzeugt. Literatur zur Verwendung von BibTeX findet sich online, \zB \cite{Feder2006, Patashnik1988}.  
+                                                                    ^
+Warning 11 in chapters/literatur.tex line 301: You should use \ldots to achieve an ellipsis.
+   ...  
+   ^^^
+Warning 26 in chapters/literatur.tex line 301: You ought to remove spaces in front of punctuation.
+   ...  
+  ^
+Warning 11 in chapters/literatur.tex line 303: You should use \ldots to achieve an ellipsis.
+   ...  
+   ^^^
+Warning 26 in chapters/literatur.tex line 303: You ought to remove spaces in front of punctuation.
+   ...  
+  ^
+Warning 11 in chapters/literatur.tex line 305: You should use \ldots to achieve an ellipsis.
+   ...  
+   ^^^
+Warning 26 in chapters/literatur.tex line 305: You ought to remove spaces in front of punctuation.
+   ...  
+  ^
+Warning 18 in chapters/literatur.tex line 310: Use either `` or '' as an alternative to `"'.
+In der "Präambel" (Zeile \ref{tex:literatur1}) wird mit \verb!\bibliography{references}!   
+       ^
+Warning 18 in chapters/literatur.tex line 310: Use either `` or '' as an alternative to `"'.
+In der "Präambel" (Zeile \ref{tex:literatur1}) wird mit \verb!\bibliography{references}!   
+                 ^
+Warning 2 in chapters/literatur.tex line 310: Non-breaking space (`~') should have been used.
+In der "Präambel" (Zeile \ref{tex:literatur1}) wird mit \verb!\bibliography{references}!   
+                         ^
+Warning 18 in chapters/literatur.tex line 321: Use either `` or '' as an alternative to `"'.
+besorgt die Ausgabe des Quellenverzeichnisses, hier mit dem Titel "Quellenverzeichnis".  
+                                                                  ^
+Warning 18 in chapters/literatur.tex line 321: Use either `` or '' as an alternative to `"'.
+besorgt die Ausgabe des Quellenverzeichnisses, hier mit dem Titel "Quellenverzeichnis".  
+                                                                                     ^
+Warning 39 in chapters/literatur.tex line 325: Double space found.
+\item[\texttt{{\bs}MakeBibliography}] ~ \newline  
+                                     ^
+Warning 2 in chapters/literatur.tex line 326: Non-breaking space (`~') should have been used.
+   Erzeugt ein in mehrere \emph{Kategorien} (s.\ Abschnitt \ref{sec:BibKategorien}) geteiltes Quellenverzeichnis.   
+                                                          ^
+Warning 39 in chapters/literatur.tex line 328: Double space found.
+\item[\texttt{{\bs}MakeBibliography[nosplit]}] ~ \newline  
+                                              ^
+Warning 24 in chapters/literatur.tex line 334: Delete this space to maintain correct pagereferences.
+\label{sec:BibKategorien}  
+^
+Warning 2 in chapters/literatur.tex line 337: Non-breaking space (`~') should have been used.
+(s.\ Tabelle \ref{tab:QuellenUndEintragstypen}):%  
+            ^
+Warning 8 in chapters/literatur.tex line 343: Wrong length of dash may have been used.
+        \item[] \textsf{literature} -- für klassische Publikationen, die gedruckt oder online vorliegen;  
+                                    ^^
+Warning 8 in chapters/literatur.tex line 344: Wrong length of dash may have been used.
+        \item[] \textsf{avmedia} -- für Filme, audio-visuelle Medien (auf DVD, CD, \usw);  
+                                 ^^
+Warning 8 in chapters/literatur.tex line 345: Wrong length of dash may have been used.
+        \item[] \textsf{software} -- für Softwareprodukte, APIs, Computer Games;  
+                                  ^^
+Warning 8 in chapters/literatur.tex line 346: Wrong length of dash may have been used.
+        \item[] \textsf{online} -- für Artefakte, die \emph{ausschließlich} online verfügbar sind.  
+                                ^^
+Warning 24 in chapters/literatur.tex line 359: Delete this space to maintain correct pagereferences.
+\label{tab:QuellenUndEintragstypen}  
+^
+Warning 44 in chapters/literatur.tex line 362: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 44 in chapters/literatur.tex line 364: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 2 in chapters/literatur.tex line 365: Non-breaking space (`~') should have been used.
+        Buch (Textbuch, Monographie) & \texttt{@book} & \pageref{sec:@book}\\  
+                                                       ^
+Warning 2 in chapters/literatur.tex line 366: Non-breaking space (`~') should have been used.
+        Sammelband (Hrsg.\ + mehrere Autoren) & \texttt{@incollection} & \pageref{sec:@incollection} \\  
+                                                                        ^
+Warning 2 in chapters/literatur.tex line 367: Non-breaking space (`~') should have been used.
+        Konferenz-, Tagungsband & \texttt{@inproceedings} & \pageref{sec:@inproceedings}\\  
+                                                           ^
+Warning 2 in chapters/literatur.tex line 368: Non-breaking space (`~') should have been used.
+        Beitrag in Zeitschrift, Journal & \texttt{@article} & \pageref{sec:@article}\\  
+                                                             ^
+Warning 2 in chapters/literatur.tex line 369: Non-breaking space (`~') should have been used.
+        Bachelor-, Master-, Diplomarbeit, Dissertation & \texttt{@thesis} & \pageref{sec:@thesis}\\  
+                                                                           ^
+Warning 2 in chapters/literatur.tex line 370: Non-breaking space (`~') should have been used.
+        Technischer Bericht, Laborbericht & \texttt{@techreport} & \pageref{sec:@techreport}\\  
+                                                                  ^
+Warning 2 in chapters/literatur.tex line 371: Non-breaking space (`~') should have been used.
+        Handbuch, Produktbeschreibung & \texttt{@manual} & \pageref{sec:@manual}\\  
+                                                          ^
+Warning 2 in chapters/literatur.tex line 372: Non-breaking space (`~') should have been used.
+        Norm & \texttt{@standard} & \pageref{sec:@standard}\\  
+                                   ^
+Warning 2 in chapters/literatur.tex line 373: Non-breaking space (`~') should have been used.
+        Gesetzestext, Verordnung etc. & \texttt{@misc} & \pageref{sec:@misc}\\  
+                                                        ^
+Warning 44 in chapters/literatur.tex line 375: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 44 in chapters/literatur.tex line 377: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 2 in chapters/literatur.tex line 378: Non-breaking space (`~') should have been used.
+        Audio (CD) & \texttt{@audio} & \pageref{sec:@audio}\\  
+                                      ^
+Warning 2 in chapters/literatur.tex line 379: Non-breaking space (`~') should have been used.
+        Bild, Foto, Grafik & \texttt{@image} & \pageref{sec:@image}\\  
+                                              ^
+Warning 2 in chapters/literatur.tex line 380: Non-breaking space (`~') should have been used.
+        Video (auf DVD, Blu-ray Disk, online) & \texttt{@video} & \pageref{sec:@video}\\  
+                                                                 ^
+Warning 2 in chapters/literatur.tex line 381: Non-breaking space (`~') should have been used.
+        Film (Kino) & \texttt{@movie} & \pageref{sec:@movie}\\  
+                                       ^
+Warning 44 in chapters/literatur.tex line 383: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 44 in chapters/literatur.tex line 385: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 2 in chapters/literatur.tex line 386: Non-breaking space (`~') should have been used.
+        Softwareprodukt oder -projekt & \texttt{@software} & \pageref{sec:@software}\\  
+                                                            ^
+Warning 2 in chapters/literatur.tex line 387: Non-breaking space (`~') should have been used.
+        Computer Game & \texttt{@software} & \pageref{sec:@software}\\  
+                                            ^
+Warning 44 in chapters/literatur.tex line 389: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 44 in chapters/literatur.tex line 391: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 2 in chapters/literatur.tex line 392: Non-breaking space (`~') should have been used.
+        Webseite, Wiki-Eintrag, Blog etc. & \texttt{@online} & \pageref{sec:@online-www}  
+                                                              ^
+Warning 24 in chapters/literatur.tex line 402: Delete this space to maintain correct pagereferences.
+\label{tab:BibKategorien}  
+^
+Warning 44 in chapters/literatur.tex line 408: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 44 in chapters/literatur.tex line 419: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+        \hline  
+        ^^^^^^
+Warning 24 in chapters/literatur.tex line 426: Delete this space to maintain correct pagereferences.
+\label{sec:KategorieLiterature}  
+^
+Warning 1 in chapters/literatur.tex line 429: Command terminated with space.
+also beispielsweise in Büchern, Konferenzbänden, Zeitschriftenartikeln, Diplomarbeiten \usw  
+                                                                                             ^
+Warning 24 in chapters/literatur.tex line 435: Delete this space to maintain correct pagereferences.
+\label{sec:@book}  
+^
+Warning 8 in chapters/literatur.tex line 456: Wrong length of dash may have been used.
+wenn es \emph{mehr} als eine Ausgabe gibt -- also insbesondere \textbf{nicht für die 1.\ Auflage},   
+                                          ^^
+Warning 24 in chapters/literatur.tex line 463: Delete this space to maintain correct pagereferences.
+\label{sec:@incollection}  
+^
+Warning 8 in chapters/literatur.tex line 481: Wrong length of dash may have been used.
+  pages={273-285},  
+            ^
+Warning 24 in chapters/literatur.tex line 492: Delete this space to maintain correct pagereferences.
+\label{sec:@inproceedings}  
+^
+Warning 8 in chapters/literatur.tex line 511: Wrong length of dash may have been used.
+  pages={819-821},  
+            ^
+Warning 24 in chapters/literatur.tex line 521: Delete this space to maintain correct pagereferences.
+\label{sec:@article}  
+^
+Warning 8 in chapters/literatur.tex line 538: Wrong length of dash may have been used.
+  pages={9-11},  
+          ^
+Warning 2 in chapters/literatur.tex line 548: Non-breaking space (`~') should have been used.
+im BibTeX-Eintrag zu \cite{Guttman2001}) und das \texttt{number}-Feld weggelassen werden.  
+                    ^
+Warning 24 in chapters/literatur.tex line 553: Delete this space to maintain correct pagereferences.
+\label{sec:@thesis}  
+^
+Warning 39 in chapters/literatur.tex line 577: Double space found.
+\paragraph{Magister- oder Masterarbeit:} ~ \newline  
+                                        ^
+Warning 39 in chapters/literatur.tex line 582: Double space found.
+\paragraph{Diplomarbeit:} ~ \newline  
+                         ^
+Warning 39 in chapters/literatur.tex line 608: Double space found.
+\paragraph{Bachelorarbeit:} ~ \newline  
+                           ^
+Warning 18 in chapters/literatur.tex line 609: Use either `` or '' as an alternative to `"'.
+Bachelorarbeiten gelten in der Regel zwar nicht als "richtige" Publikationen, bei Bedarf müssen sie aber dennoch referenziert werden können.   
+                                                    ^
+Warning 18 in chapters/literatur.tex line 609: Use either `` or '' as an alternative to `"'.
+Bachelorarbeiten gelten in der Regel zwar nicht als "richtige" Publikationen, bei Bedarf müssen sie aber dennoch referenziert werden können.   
+                                                             ^
+Warning 24 in chapters/literatur.tex line 631: Delete this space to maintain correct pagereferences.
+\label{sec:@techreport}  
+^
+Warning 24 in chapters/literatur.tex line 658: Delete this space to maintain correct pagereferences.
+\label{sec:@manual}  
+^
+Warning 1 in chapters/literatur.tex line 659: Command terminated with space.
+Dieser Publikationstyp bietet sich jegliche Art von technischer oder anderer Dokumentation an, wie etwa Produktbeschreibungen von Herstellern, Anleitungen, Präsentationen, White Papers \usw Die Dokumentation muss dabei nicht zwingend gedruckt existieren.  
+                                                                                                                                                                                              ^
+Warning 24 in chapters/literatur.tex line 685: Delete this space to maintain correct pagereferences.
+\label{sec:@standard}  
+^
+Warning 8 in chapters/literatur.tex line 698: Wrong length of dash may have been used.
+        date={2018-10-18},  
+                  ^
+Warning 8 in chapters/literatur.tex line 698: Wrong length of dash may have been used.
+        date={2018-10-18},  
+                     ^
+Warning 24 in chapters/literatur.tex line 710: Delete this space to maintain correct pagereferences.
+\label{sec:@patent}  
+^
+Warning 2 in chapters/literatur.tex line 737: Non-breaking space (`~') should have been used.
+wie im nächsten Abschnitt gezeigt \cite{Hough1962}.  
+                                  ^
+Warning 24 in chapters/literatur.tex line 742: Delete this space to maintain correct pagereferences.
+\label{sec:@misc}  
+^
+Warning 2 in chapters/literatur.tex line 746: Non-breaking space (`~') should have been used.
+Typen im \texttt{biblatex}-Handbuch \cite{Lehman2018} ansehen, beispielsweise  
+                                   ^
+Warning 2 in chapters/literatur.tex line 752: Non-breaking space (`~') should have been used.
+(\sa\ \cite{FhStG1993} und \cite{EuRichtlinie2000}).  
+                          ^
+Warning 11 in chapters/literatur.tex line 760: You should use \ldots to achieve an ellipsis.
+  url={https://www.ris.bka.gv.at/Dokumente/LrOO/...538.pdf},  
+                                                ^^^
+Warning 24 in chapters/literatur.tex line 789: Delete this space to maintain correct pagereferences.
+\label{sec:KategorieAvmedia}  
+^
+Warning 8 in chapters/literatur.tex line 795: Wrong length of dash may have been used.
+die ausschließlich online verfügbar sind -- diese sollten mit einem Elementtyp   
+                                           ^^
+Warning 24 in chapters/literatur.tex line 805: Delete this space to maintain correct pagereferences.
+\label{sec:@audio}  
+^
+Warning 13 in chapters/literatur.tex line 806: Intersentence spacing (`\@') should perhaps be used.
+Hier ein Beispiel für die Spezifikation einer Audio-CD:  
+                                                       ^
+Warning 24 in chapters/literatur.tex line 828: Delete this space to maintain correct pagereferences.
+\label{sec:@image}  
+^
+Warning 24 in chapters/literatur.tex line 854: Delete this space to maintain correct pagereferences.
+\label{sec:@video}  
+^
+Warning 24 in chapters/literatur.tex line 900: Delete this space to maintain correct pagereferences.
+\label{sec:@movie}  
+^
+Warning 8 in chapters/literatur.tex line 913: Wrong length of dash may have been used.
+  title={Nosferatu -- A Symphony of Horrors},  
+                   ^^
+Warning 2 in chapters/literatur.tex line 933: Non-breaking space (`~') should have been used.
+in \emph{Psycho} \cite[T=00:32:10]{Psycho1960}.  
+                ^
+Warning 18 in chapters/literatur.tex line 934: Use either `` or '' as an alternative to `"'.
+Alternativ zur simplen Zeitangabe "T=\emph{hh}:\emph{mm}:\emph{ss}"   
+                                  ^
+Warning 18 in chapters/literatur.tex line 934: Use either `` or '' as an alternative to `"'.
+Alternativ zur simplen Zeitangabe "T=\emph{hh}:\emph{mm}:\emph{ss}"   
+                                                                  ^
+Warning 18 in chapters/literatur.tex line 936: Use either `` or '' as an alternative to `"'.
+den zugehörigen \emph{Timecode} "TC=\emph{hh:mm:ss:ff}" angeben,   
+                                 ^
+Warning 18 in chapters/literatur.tex line 936: Use either `` or '' as an alternative to `"'.
+den zugehörigen \emph{Timecode} "TC=\emph{hh:mm:ss:ff}" angeben,   
+                                                       ^
+Warning 24 in chapters/literatur.tex line 942: Delete this space to maintain correct pagereferences.
+\label{sec:@software}  
+^
+Warning 24 in chapters/literatur.tex line 982: Delete this space to maintain correct pagereferences.
+\label{sec:KategorieOnline}  
+^
+Warning 18 in chapters/literatur.tex line 988: Use either `` or '' as an alternative to `"'.
+        "Panasonic products for business" Seite.%  
+        ^
+Warning 18 in chapters/literatur.tex line 988: Use either `` or '' as an alternative to `"'.
+        "Panasonic products for business" Seite.%  
+                                        ^
+Warning 42 in chapters/literatur.tex line 989: You should remove spaces in front of `\footnote'
+        \footnote{\url{http://business.panasonic.co.uk/}}  
+       ^
+Warning 18 in chapters/literatur.tex line 990: Use either `` or '' as an alternative to `"'.
+        In diesem Fall wird nicht auf ein konkretes "Werk" verwiesen und daher  
+                                                    ^
+Warning 18 in chapters/literatur.tex line 990: Use either `` or '' as an alternative to `"'.
+        In diesem Fall wird nicht auf ein konkretes "Werk" verwiesen und daher  
+                                                         ^
+Warning 2 in chapters/literatur.tex line 995: Non-breaking space (`~') should have been used.
+        (s.\ Abschnitte \ref{sec:KategorieLiterature} und \ref{sec:KategorieAvmedia})  
+                       ^
+Warning 2 in chapters/literatur.tex line 995: Non-breaking space (`~') should have been used.
+        (s.\ Abschnitte \ref{sec:KategorieLiterature} und \ref{sec:KategorieAvmedia})  
+                                                         ^
+Warning 18 in chapters/literatur.tex line 997: Use either `` or '' as an alternative to `"'.
+        aber \emph{nicht} "online" und es genügt, ggfs.\ den zugehörigen Link im   
+                          ^
+Warning 18 in chapters/literatur.tex line 997: Use either `` or '' as an alternative to `"'.
+        aber \emph{nicht} "online" und es genügt, ggfs.\ den zugehörigen Link im   
+                                 ^
+Warning 24 in chapters/literatur.tex line 1007: Delete this space to maintain correct pagereferences.
+\label{sec:@online-www}  
+^
+Warning 18 in chapters/literatur.tex line 1010: Use either `` or '' as an alternative to `"'.
+Beispielsweise bezeichnet man als "Reliquienschrein"  
+                                  ^
+Warning 18 in chapters/literatur.tex line 1010: Use either `` or '' as an alternative to `"'.
+Beispielsweise bezeichnet man als "Reliquienschrein"  
+                                                   ^
+Warning 2 in chapters/literatur.tex line 1012: Non-breaking space (`~') should have been used.
+mehrerer Heiliger aufbewahrt werden \cite{WikiReliquienschrein2018}.  
+                                   ^
+Warning 8 in chapters/literatur.tex line 1022: Wrong length of dash may have been used.
+        urldate={2019-02-28}  
+                     ^
+Warning 8 in chapters/literatur.tex line 1022: Wrong length of dash may have been used.
+        urldate={2019-02-28}  
+                        ^
+Warning 13 in chapters/literatur.tex line 1028: Intersentence spacing (`\@') should perhaps be used.
+In diesem Fall besteht die Quellenangabe praktisch nur mehr aus dem URL.  
+                                                                       ^
+Warning 8 in chapters/literatur.tex line 1040: Wrong length of dash may have been used.
+Liegt aber \emph{kein} Autor vor, dann sollte man -- wie in den obigen Beispielen gezeigt --  
+                                                  ^^
+Warning 8 in chapters/literatur.tex line 1040: Wrong length of dash may have been used.
+Liegt aber \emph{kein} Autor vor, dann sollte man -- wie in den obigen Beispielen gezeigt --  
+                                                                                          ^^
+Warning 24 in chapters/literatur.tex line 1080: Delete this space to maintain correct pagereferences.
+\label{sec:TippsZuBibtex}  
+^
+Warning 18 in chapters/literatur.tex line 1106: Use either `` or '' as an alternative to `"'.
+bei einer dritten Auflage. Das richtige "Rundherum" in der Quellenangabe wird   
+                                        ^
+Warning 18 in chapters/literatur.tex line 1106: Use either `` or '' as an alternative to `"'.
+bei einer dritten Auflage. Das richtige "Rundherum" in der Quellenangabe wird   
+                                                  ^
+Warning 18 in chapters/literatur.tex line 1108: Use either `` or '' as an alternative to `"'.
+(\zB\ "3.\ Auflage" oder "3rd edition").  
+      ^
+Warning 18 in chapters/literatur.tex line 1108: Use either `` or '' as an alternative to `"'.
+(\zB\ "3.\ Auflage" oder "3rd edition").  
+                  ^
+Warning 18 in chapters/literatur.tex line 1108: Use either `` or '' as an alternative to `"'.
+(\zB\ "3.\ Auflage" oder "3rd edition").  
+                         ^
+Warning 18 in chapters/literatur.tex line 1108: Use either `` or '' as an alternative to `"'.
+(\zB\ "3.\ Auflage" oder "3rd edition").  
+                                     ^
+Warning 2 in chapters/literatur.tex line 1110: Non-breaking space (`~') should have been used.
+Wie bereits auf Seite \pageref{sec:@book} (unter \texttt{@book}) angemerkt, sollte im Fall einer  
+                     ^
+Warning 1 in chapters/literatur.tex line 1129: Command terminated with space.
+Vor- und Nachnamen nicht korrekt zugeordnet werden können, \zB  
+                                                               ^
+Warning 18 in chapters/literatur.tex line 1163: Use either `` or '' as an alternative to `"'.
+"ACM Transactions on Computer-Human Interaction" anstelle von   
+^
+Warning 18 in chapters/literatur.tex line 1163: Use either `` or '' as an alternative to `"'.
+"ACM Transactions on Computer-Human Interaction" anstelle von   
+                                               ^
+Warning 18 in chapters/literatur.tex line 1164: Use either `` or '' as an alternative to `"'.
+"ACM Trans.\ Comput.-Hum.\ Interact."! Seitenangaben nicht vergessen!  
+^
+Warning 18 in chapters/literatur.tex line 1164: Use either `` or '' as an alternative to `"'.
+"ACM Trans.\ Comput.-Hum.\ Interact."! Seitenangaben nicht vergessen!  
+                                    ^
+Warning 18 in chapters/literatur.tex line 1167: Use either `` or '' as an alternative to `"'.
+Tagungsbände einheitlich in der Form "Proceedings of the \emph{XY Conference on Something} \ldots"  
+                                      ^
+Warning 18 in chapters/literatur.tex line 1167: Use either `` or '' as an alternative to `"'.
+Tagungsbände einheitlich in der Form "Proceedings of the \emph{XY Conference on Something} \ldots"  
+                                                                                                  ^
+Warning 8 in chapters/literatur.tex line 1177: Wrong length of dash may have been used.
+Durch die Anweisung \verb!\nocite{*}! -- an beliebiger Stelle im Dokument platziert -- werden \emph{alle} bestehenden Einträge der BibTeX-Datei im Quellenverzeichnis aufgelistet, also auch jene, für die es keine explizite \verb!\cite{}! Anweisung gibt. Das ist ganz nützlich, um während des Schreibens der Arbeit eine aktuelle Übersicht auszugeben. Normalerweise müssen aber alle angeführten Quellen auch im Text referenziert sein!  
+                                      ^^
+Warning 8 in chapters/literatur.tex line 1177: Wrong length of dash may have been used.
+Durch die Anweisung \verb!\nocite{*}! -- an beliebiger Stelle im Dokument platziert -- werden \emph{alle} bestehenden Einträge der BibTeX-Datei im Quellenverzeichnis aufgelistet, also auch jene, für die es keine explizite \verb!\cite{}! Anweisung gibt. Das ist ganz nützlich, um während des Schreibens der Arbeit eine aktuelle Übersicht auszugeben. Normalerweise müssen aber alle angeführten Quellen auch im Text referenziert sein!  
+                                                                                    ^^
+Warning 24 in chapters/literatur.tex line 1182: Delete this space to maintain correct pagereferences.
+\label{sec:Plagiarismus}  
+^
+Warning 24 in chapters/drucken.tex line 2: Delete this space to maintain correct pagereferences.
+\label{cha:Drucken}  
+^
+Warning 24 in chapters/drucken.tex line 8: Delete this space to maintain correct pagereferences.
+\label{sec:pdf}  
+^
+Warning 8 in chapters/drucken.tex line 102: Wrong length of dash may have been used.
+Qualitätsunterschied ist jedoch -- \va\ bei Bildern und Grafiken  
+                                 ^^
+Warning 18 in chapters/drucken.tex line 122: Use either `` or '' as an alternative to `"'.
+Option "Fit to page" im Druckmenü verursacht, wobei die Seiten  
+       ^
+Warning 18 in chapters/drucken.tex line 122: Use either `` or '' as an alternative to `"'.
+Option "Fit to page" im Druckmenü verursacht, wobei die Seiten  
+                   ^
+Warning 8 in chapters/drucken.tex line 143: Wrong length of dash may have been used.
+Exemplare \emph{ungebunden} abzugeben -- dieses wird später von einem  
+                                      ^^
+Warning 1 in chapters/drucken.tex line 149: Command terminated with space.
+verhindert, \zB durch eine traditionelle Rückenbindung  
+               ^
+Warning 8 in chapters/drucken.tex line 155: Wrong length of dash may have been used.
+Falls man -- was sehr zu empfehlen ist -- die Arbeit bei einem  
+          ^^
+Warning 8 in chapters/drucken.tex line 155: Wrong length of dash may have been used.
+Falls man -- was sehr zu empfehlen ist -- die Arbeit bei einem  
+                                       ^^
+Warning 13 in chapters/drucken.tex line 160: Intersentence spacing (`\@') should perhaps be used.
+lang, muss man notfalls eine gekürzte  Version angeben, wie \zB:  
+                                                                ^
+Warning 8 in chapters/drucken.tex line 179: Wrong length of dash may have been used.
+einem USB-Stick beilegen. Es ist außerdem sinnvoll -- schon allein  
+                                                    ^^
+Warning 8 in chapters/drucken.tex line 180: Wrong length of dash may have been used.
+aus Gründen der elektronischen Archivierbarkeit -- die eigene Arbeit  
+                                                 ^^
+Warning 8 in chapters/drucken.tex line 202: Wrong length of dash may have been used.
+\footnote{Nicht beim lose abgegebenen Bibliotheksexemplar --  
+                                                          ^^
+Warning 2 in chapters/drucken.tex line 208: Non-breaking space (`~') should have been used.
+Datenträgers (wie exemplarisch in Anhang \ref{app:cdrom}).  
+                                         ^
+Warning 8 in chapters/schluss.tex line 18: Wrong length of dash may have been used.
+Wenn die Arbeit fertig ist, sollten Sie diese zunächst selbst nochmals vollständig und sorgfältig durchlesen, auch wenn man vielleicht das mühsam entstandene Produkt längst nicht mehr sehen möchte. Zusätzlich ist sehr zu empfehlen, auch einer weiteren Person diese Arbeit anzutun -- man wird erstaunt sein, wie viele Fehler man selbst überlesen hat.   
+                                                                                                                                                                                                                                                                                               ^^
+Warning 24 in chapters/schluss.tex line 29: Delete this space to maintain correct pagereferences.
+\label{tab:checkliste}  
+^
+Warning 18 in chapters/schluss.tex line 40: Use either `` or '' as an alternative to `"'.
+        \item[$\Box$] \textbf{Typographie:} sauberes Schriftbild, keine "manuellen" Abstände zwischen Absätzen oder Einrückungen, keine überlangen Zeilen, Hervorhebungen, Schriftgröße, Platzierung von Fußnoten.  
+                                                                        ^
+Warning 18 in chapters/schluss.tex line 40: Use either `` or '' as an alternative to `"'.
+        \item[$\Box$] \textbf{Typographie:} sauberes Schriftbild, keine "manuellen" Abstände zwischen Absätzen oder Einrückungen, keine überlangen Zeilen, Hervorhebungen, Schriftgröße, Platzierung von Fußnoten.  
+                                                                                  ^
+Warning 24 in back/anhang_a.tex line 2: Delete this space to maintain correct pagereferences.
+\label{app:TechnischeInfos}  
+^
+Warning 1 in back/anhang_a.tex line 4: Command terminated with space.
+\newcommand*{\checkbox}{{\fboxsep 1pt%  
+                                 ^
+Warning 44 in back/anhang_a.tex line 10: User Regex: -2:Vertical rules in tables are ugly.
+\begin{tabular}{|l|l|}  
+^^^^^^^^^^^^^^^^^^^^^^
+Warning 44 in back/anhang_a.tex line 11: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 44 in back/anhang_a.tex line 13: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline\hline  
+^^^^^^
+Warning 44 in back/anhang_a.tex line 13: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline\hline  
+      ^^^^^^
+Warning 1 in back/anhang_a.tex line 14: Command terminated with space.
+\hgbDate       & \texttt{hgb.sty} \\  
+        ^
+Warning 44 in back/anhang_a.tex line 15: User Regex: -2:Use \toprule, midrule, or \bottomrule from booktabs.
+\hline  
+^^^^^^
+Warning 18 in back/anhang_a.tex line 25: Use either `` or '' as an alternative to `"'.
+Der "klassische" DVI-PS-PDF-Modus wird somit nicht mehr unterstützt!   
+    ^
+Warning 18 in back/anhang_a.tex line 25: Use either `` or '' as an alternative to `"'.
+Der "klassische" DVI-PS-PDF-Modus wird somit nicht mehr unterstützt!   
+               ^
+Warning 42 in back/anhang_a.tex line 36: You should remove spaces in front of `\footnote'
+                        \footnote{\url{http://www.ctan.org/pkg/lm}, \url{http://www.tug.dk/FontCatalogue/lmodern}}  
+                       ^
+Warning 24 in back/anhang_a.tex line 41: Delete this space to maintain correct pagereferences.
+\label{sec:VerwendungUnterWindows}  
+^
+Warning 2 in back/anhang_a.tex line 44: Non-breaking space (`~') should have been used.
+(s.\ auch Abschnitt \ref{sec:Windows}):  
+                   ^
+Warning 42 in back/anhang_a.tex line 48: You should remove spaces in front of `\footnote'
+        \footnote{\url{http://www.miktex.org/} -- \textbf{Achtung:}   
+       ^
+Warning 8 in back/anhang_a.tex line 48: Wrong length of dash may have been used.
+        \footnote{\url{http://www.miktex.org/} -- \textbf{Achtung:}   
+                                               ^^
+Warning 18 in back/anhang_a.tex line 49: Use either `` or '' as an alternative to `"'.
+        Generell wird die \textbf{Komplett\-installation} von MikTeX ("Complete MiKTeX") empfohlen,   
+                                                                      ^
+Warning 18 in back/anhang_a.tex line 49: Use either `` or '' as an alternative to `"'.
+        Generell wird die \textbf{Komplett\-installation} von MikTeX ("Complete MiKTeX") empfohlen,   
+                                                                                      ^
+Warning 18 in back/anhang_a.tex line 53: Use either `` or '' as an alternative to `"'.
+        durch "\emph{Install missing packages on-the-fly: = Yes}" ermöglicht wird (NICHT "\emph{Ask me first}")!  
+              ^
+Warning 18 in back/anhang_a.tex line 53: Use either `` or '' as an alternative to `"'.
+        durch "\emph{Install missing packages on-the-fly: = Yes}" ermöglicht wird (NICHT "\emph{Ask me first}")!  
+                                                                ^
+Warning 18 in back/anhang_a.tex line 53: Use either `` or '' as an alternative to `"'.
+        durch "\emph{Install missing packages on-the-fly: = Yes}" ermöglicht wird (NICHT "\emph{Ask me first}")!  
+                                                                                          ^
+Warning 18 in back/anhang_a.tex line 53: Use either `` or '' as an alternative to `"'.
+        durch "\emph{Install missing packages on-the-fly: = Yes}" ermöglicht wird (NICHT "\emph{Ask me first}")!  
+                                                                                                              ^
+Warning 42 in back/anhang_a.tex line 59: You should remove spaces in front of `\footnote'
+        \footnote{\url{http://www.texniccenter.org/}}  
+       ^
+Warning 42 in back/anhang_a.tex line 62: You should remove spaces in front of `\footnote'
+        \footnote{\url{http://blog.kowalczyk.info/software/sumatrapdf/}}   
+       ^
+Warning 11 in back/anhang_a.tex line 69: You should use \ldots to achieve an ellipsis.
+über \texttt{Build} $\to$ \texttt{Define Output Profiles...} in TeXnicCenter importieren.  
+                                                         ^^^
+Warning 2 in back/anhang_a.tex line 75: Non-breaking space (`~') should have been used.
+Diese Version sollte insbesondere mit \emph{MacTeX} problemlos laufen (s.\ auch Abschnitt \ref{sec:MacOs}):  
+                                                                                         ^
+Warning 24 in back/anhang_b.tex line 2: Delete this space to maintain correct pagereferences.
+\label{app:cdrom}  
+^
+Warning 24 in back/anhang_c.tex line 2: Delete this space to maintain correct pagereferences.
+\label{app:Fragebogen}  
+^
+Warning 8 in back/anhang_c.tex line 5: Wrong length of dash may have been used.
+Dieser Abschnitt demonstriert -- als Beispiel -- die Einbindung eines externen PDF-Dokuments  
+                              ^^
+Warning 8 in back/anhang_c.tex line 5: Wrong length of dash may have been used.
+Dieser Abschnitt demonstriert -- als Beispiel -- die Einbindung eines externen PDF-Dokuments  
+                                              ^^
+Warning 18 in back/anhang_c.tex line 37: Use either `` or '' as an alternative to `"'.
+Bei anderen Formaten muss man die Skalierung möglicherweise "händisch" einstellen,  
+                                                             ^
+Warning 18 in back/anhang_c.tex line 37: Use either `` or '' as an alternative to `"'.
+Bei anderen Formaten muss man die Skalierung möglicherweise "händisch" einstellen,  
+                                                                       ^
+Warning 1 in back/anhang_c.tex line 41: Command terminated with space.
+(Fonts) korrekt und vollständig \emph{eingebettet} sind, da ansonsten das von \latex erzeugte   
+                                                                                     ^
+Warning 24 in back/anhang_d.tex line 2: Delete this space to maintain correct pagereferences.
+\label{app:latex}  
+^
+Warning 1 in main.tex line 82: Command terminated with space.
+\MakeBibliography                        % Quellenverzeichnis  
+                 ^
+Warning 17 in main.tex line 90: Number of `(' doesn't match the number of `)'!
+
+
