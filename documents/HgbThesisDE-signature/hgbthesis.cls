@@ -137,16 +137,22 @@
 	\renewcommand{\@license}{#1}
 }
 
-%%  electronic signature  ---------------------------------------------
+%%  electronic signature ------------------------------------------------------
 
-\newboolean{hgb@addsignature}
-\setboolean{hgb@addsignature}{false}	% no electronic signature field by default
+\newboolean{hgb@addsignatureflag}
+\setboolean{hgb@addsignatureflag}{false}	% no electronic signature field by default
 
-% Inserts a signature filed that can be filled in the final PDF
+\newcommand{\hgb@signaturefield}[0]{%
+  \ifthenelse{\boolean{hgb@addsignatureflag}}%
+			{\digsigfield{4cm}{2.5cm}{Signature}}%
+			{\hbox to 4cm {\vbox to 2.5cm {}}}%
+}
+
+% Inserts a signature field that can be filled in the final PDF
 % using Adobe Acrobat or (free) Acrobat Reader:
-\newcommand{\addsignature}[0]{%
+\newcommand{\AddSignatureField}[0]{%
 	\RequirePackage{digsig}
-	\setboolean{hgb@addsignature}{true}
+	\setboolean{hgb@addsignatureflag}{true}
 }
 
 %% ----------------------------------------------------------------------------
@@ -414,11 +420,8 @@ This work is published under the conditions of the
 		\vspace{10mm}
 		\noindent
 		\@placeofstudy, am \DTMdate{\value{@yearofsubmission}-\value{@monthofsubmission}-\value{@dayofsubmission}}
-		\par
-		\vspace{3mm}
-		\ifthenelse{\boolean{hgb@addsignature}}%
-			{\digsigfield{4cm}{2.5cm}{Signature}}%
-			{\vbox to 2.5cm{}}%
+		\par\vspace{3mm}\noindent
+		\hgb@signaturefield%
 		\par\vspace{3mm}\noindent
 		\@author
 	\end{german}
@@ -426,7 +429,7 @@ This work is published under the conditions of the
 
 % English
 
-\newcommand{\leadingzero}[1]{\ifnum #1<10 0\the#1\else\the#1\fi}
+%\newcommand{\leadingzero}[1]{\ifnum #1<10 0\the#1\else\the#1\fi}
 
 \newcommand{\@declarationpageEn}{%
 	\begin{english}
@@ -439,11 +442,8 @@ This work is published under the conditions of the
 		\vspace{10mm}
 		\noindent
 		\@placeofstudy, \DTMdate{\value{@yearofsubmission}-\value{@monthofsubmission}-\value{@dayofsubmission}}
-		\\par
-		\vspace{3mm}
-		\ifthenelse{\boolean{hgb@addsignature}}%
-			{\digsigfield{4cm}{2.5cm}{Signature}}%
-			{\vbox to 2.5cm{}}%
+		\par\vspace{3mm}\noindent
+		\hgb@signaturefield%
 		\par\vspace{3mm}\noindent
 		\@author
 	\end{english}
